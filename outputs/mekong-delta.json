@@ -1,0 +1,5552 @@
+[
+    {
+        "name": "Tỉnh Long An",
+        "districts": [
+            {
+                "name": "Thành phố Tân An",
+                "wards": [
+                    {
+                        "name": "Phường 5"
+                    },
+                    {
+                        "name": "Phường 2"
+                    },
+                    {
+                        "name": "Phường 4"
+                    },
+                    {
+                        "name": "Phường Tân Khánh"
+                    },
+                    {
+                        "name": "Phường 1"
+                    },
+                    {
+                        "name": "Phường 3"
+                    },
+                    {
+                        "name": "Phường 7"
+                    },
+                    {
+                        "name": "Phường 6"
+                    },
+                    {
+                        "name": "Xã Hướng Thọ Phú"
+                    },
+                    {
+                        "name": "Xã Nhơn Thạnh Trung"
+                    },
+                    {
+                        "name": "Xã Lợi Bình Nhơn"
+                    },
+                    {
+                        "name": "Xã Bình Tâm"
+                    },
+                    {
+                        "name": "Phường Khánh Hậu"
+                    },
+                    {
+                        "name": "Xã An Vĩnh Ngãi"
+                    }
+                ]
+            },
+            {
+                "name": "Thị xã Kiến Tường",
+                "wards": [
+                    {
+                        "name": "Phường 1"
+                    },
+                    {
+                        "name": "Phường 2"
+                    },
+                    {
+                        "name": "Xã Thạnh Trị"
+                    },
+                    {
+                        "name": "Xã Bình Hiệp"
+                    },
+                    {
+                        "name": "Xã Bình Tân"
+                    },
+                    {
+                        "name": "Xã Tuyên Thạnh"
+                    },
+                    {
+                        "name": "Phường 3"
+                    },
+                    {
+                        "name": "Xã Thạnh Hưng"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Tân Hưng",
+                "wards": [
+                    {
+                        "name": "Thị trấn Tân Hưng"
+                    },
+                    {
+                        "name": "Xã Hưng Hà"
+                    },
+                    {
+                        "name": "Xã Hưng Điền B"
+                    },
+                    {
+                        "name": "Xã Hưng Điền"
+                    },
+                    {
+                        "name": "Xã Thạnh Hưng"
+                    },
+                    {
+                        "name": "Xã Hưng Thạnh"
+                    },
+                    {
+                        "name": "Xã Vĩnh Thạnh"
+                    },
+                    {
+                        "name": "Xã Vĩnh Châu B"
+                    },
+                    {
+                        "name": "Xã Vĩnh Lợi"
+                    },
+                    {
+                        "name": "Xã Vĩnh Đại"
+                    },
+                    {
+                        "name": "Xã Vĩnh Châu A"
+                    },
+                    {
+                        "name": "Xã Vĩnh Bửu"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Vĩnh Hưng",
+                "wards": [
+                    {
+                        "name": "Thị trấn Vĩnh Hưng"
+                    },
+                    {
+                        "name": "Xã Hưng Điền A"
+                    },
+                    {
+                        "name": "Xã Khánh Hưng"
+                    },
+                    {
+                        "name": "Xã Thái Trị"
+                    },
+                    {
+                        "name": "Xã Vĩnh Trị"
+                    },
+                    {
+                        "name": "Xã Thái Bình Trung"
+                    },
+                    {
+                        "name": "Xã Vĩnh Bình"
+                    },
+                    {
+                        "name": "Xã Vĩnh Thuận"
+                    },
+                    {
+                        "name": "Xã Tuyên Bình"
+                    },
+                    {
+                        "name": "Xã Tuyên Bình Tây"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Mộc Hóa",
+                "wards": [
+                    {
+                        "name": "Xã Bình Hòa Tây"
+                    },
+                    {
+                        "name": "Xã Bình Thạnh"
+                    },
+                    {
+                        "name": "Xã Bình Hòa Trung"
+                    },
+                    {
+                        "name": "Xã Bình Hòa Đông"
+                    },
+                    {
+                        "name": "Thị trấn Bình Phong Thạnh"
+                    },
+                    {
+                        "name": "Xã Tân Lập"
+                    },
+                    {
+                        "name": "Xã Tân Thành"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Tân Thạnh",
+                "wards": [
+                    {
+                        "name": "Thị trấn Tân Thạnh"
+                    },
+                    {
+                        "name": "Xã Bắc Hòa"
+                    },
+                    {
+                        "name": "Xã Hậu Thạnh Tây"
+                    },
+                    {
+                        "name": "Xã Nhơn Hòa Lập"
+                    },
+                    {
+                        "name": "Xã Tân Lập"
+                    },
+                    {
+                        "name": "Xã Hậu Thạnh Đông"
+                    },
+                    {
+                        "name": "Xã Nhơn Hoà"
+                    },
+                    {
+                        "name": "Xã Kiến Bình"
+                    },
+                    {
+                        "name": "Xã Tân Thành"
+                    },
+                    {
+                        "name": "Xã Tân Bình"
+                    },
+                    {
+                        "name": "Xã Tân Ninh"
+                    },
+                    {
+                        "name": "Xã Nhơn Ninh"
+                    },
+                    {
+                        "name": "Xã Tân Hòa"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Thạnh Hóa",
+                "wards": [
+                    {
+                        "name": "Thị trấn Thạnh Hóa"
+                    },
+                    {
+                        "name": "Xã Tân Hiệp"
+                    },
+                    {
+                        "name": "Xã Thuận Bình"
+                    },
+                    {
+                        "name": "Xã Thạnh Phước"
+                    },
+                    {
+                        "name": "Xã Thạnh Phú"
+                    },
+                    {
+                        "name": "Xã Thuận Nghĩa Hòa"
+                    },
+                    {
+                        "name": "Xã Thủy Đông"
+                    },
+                    {
+                        "name": "Xã Thủy Tây"
+                    },
+                    {
+                        "name": "Xã Tân Tây"
+                    },
+                    {
+                        "name": "Xã Tân Đông"
+                    },
+                    {
+                        "name": "Xã Thạnh An"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Đức Huệ",
+                "wards": [
+                    {
+                        "name": "Thị trấn Đông Thành"
+                    },
+                    {
+                        "name": "Xã Mỹ Quý Đông"
+                    },
+                    {
+                        "name": "Xã Mỹ Thạnh Bắc"
+                    },
+                    {
+                        "name": "Xã Mỹ Quý Tây"
+                    },
+                    {
+                        "name": "Xã Mỹ Thạnh Tây"
+                    },
+                    {
+                        "name": "Xã Mỹ Thạnh Đông"
+                    },
+                    {
+                        "name": "Xã Bình Thành"
+                    },
+                    {
+                        "name": "Xã Bình Hòa Bắc"
+                    },
+                    {
+                        "name": "Xã Bình Hòa Hưng"
+                    },
+                    {
+                        "name": "Xã Bình Hòa Nam"
+                    },
+                    {
+                        "name": "Xã Mỹ Bình"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Đức Hòa",
+                "wards": [
+                    {
+                        "name": "Thị trấn Hậu Nghĩa"
+                    },
+                    {
+                        "name": "Thị trấn Hiệp Hòa"
+                    },
+                    {
+                        "name": "Thị trấn Đức Hòa"
+                    },
+                    {
+                        "name": "Xã Lộc Giang"
+                    },
+                    {
+                        "name": "Xã An Ninh Đông"
+                    },
+                    {
+                        "name": "Xã An Ninh Tây"
+                    },
+                    {
+                        "name": "Xã Tân Mỹ"
+                    },
+                    {
+                        "name": "Xã Hiệp Hòa"
+                    },
+                    {
+                        "name": "Xã Đức Lập Thượng"
+                    },
+                    {
+                        "name": "Xã Đức Lập Hạ"
+                    },
+                    {
+                        "name": "Xã Tân Phú"
+                    },
+                    {
+                        "name": "Xã Mỹ Hạnh Bắc"
+                    },
+                    {
+                        "name": "Xã Đức Hòa Thượng"
+                    },
+                    {
+                        "name": "Xã Hòa Khánh Tây"
+                    },
+                    {
+                        "name": "Xã Hòa Khánh Đông"
+                    },
+                    {
+                        "name": "Xã Mỹ Hạnh Nam"
+                    },
+                    {
+                        "name": "Xã Hòa Khánh Nam"
+                    },
+                    {
+                        "name": "Xã Đức Hòa Đông"
+                    },
+                    {
+                        "name": "Xã Đức Hòa Hạ"
+                    },
+                    {
+                        "name": "Xã Hựu Thạnh"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Bến Lức",
+                "wards": [
+                    {
+                        "name": "Thị trấn Bến Lức"
+                    },
+                    {
+                        "name": "Xã Thạnh Lợi"
+                    },
+                    {
+                        "name": "Xã Lương Bình"
+                    },
+                    {
+                        "name": "Xã Thạnh Hòa"
+                    },
+                    {
+                        "name": "Xã Lương Hòa"
+                    },
+                    {
+                        "name": "Xã Tân Hòa"
+                    },
+                    {
+                        "name": "Xã Tân Bửu"
+                    },
+                    {
+                        "name": "Xã An Thạnh"
+                    },
+                    {
+                        "name": "Xã Bình Đức"
+                    },
+                    {
+                        "name": "Xã Mỹ Yên"
+                    },
+                    {
+                        "name": "Xã Thanh Phú"
+                    },
+                    {
+                        "name": "Xã Long Hiệp"
+                    },
+                    {
+                        "name": "Xã Thạnh Đức"
+                    },
+                    {
+                        "name": "Xã Phước Lợi"
+                    },
+                    {
+                        "name": "Xã Nhựt Chánh"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Thủ Thừa",
+                "wards": [
+                    {
+                        "name": "Thị trấn Thủ Thừa"
+                    },
+                    {
+                        "name": "Xã Long Thạnh"
+                    },
+                    {
+                        "name": "Xã Tân Thành"
+                    },
+                    {
+                        "name": "Xã Long Thuận"
+                    },
+                    {
+                        "name": "Xã Mỹ Lạc"
+                    },
+                    {
+                        "name": "Xã Mỹ Thạnh"
+                    },
+                    {
+                        "name": "Xã Bình An"
+                    },
+                    {
+                        "name": "Xã Nhị Thành"
+                    },
+                    {
+                        "name": "Xã Mỹ An"
+                    },
+                    {
+                        "name": "Xã Bình Thạnh"
+                    },
+                    {
+                        "name": "Xã Mỹ Phú"
+                    },
+                    {
+                        "name": "Xã Tân Long"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Tân Trụ",
+                "wards": [
+                    {
+                        "name": "Thị trấn Tân Trụ"
+                    },
+                    {
+                        "name": "Xã Tân Bình"
+                    },
+                    {
+                        "name": "Xã Quê Mỹ Thạnh"
+                    },
+                    {
+                        "name": "Xã Lạc Tấn"
+                    },
+                    {
+                        "name": "Xã Bình Trinh Đông"
+                    },
+                    {
+                        "name": "Xã Tân Phước Tây"
+                    },
+                    {
+                        "name": "Xã Bình Lãng"
+                    },
+                    {
+                        "name": "Xã Bình Tịnh"
+                    },
+                    {
+                        "name": "Xã Đức Tân"
+                    },
+                    {
+                        "name": "Xã Nhựt Ninh"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Cần Đước",
+                "wards": [
+                    {
+                        "name": "Thị trấn Cần Đước"
+                    },
+                    {
+                        "name": "Xã Long Trạch"
+                    },
+                    {
+                        "name": "Xã Long Khê"
+                    },
+                    {
+                        "name": "Xã Long Định"
+                    },
+                    {
+                        "name": "Xã Phước Vân"
+                    },
+                    {
+                        "name": "Xã Long Hòa"
+                    },
+                    {
+                        "name": "Xã Long Cang"
+                    },
+                    {
+                        "name": "Xã Long Sơn"
+                    },
+                    {
+                        "name": "Xã Tân Trạch"
+                    },
+                    {
+                        "name": "Xã Mỹ Lệ"
+                    },
+                    {
+                        "name": "Xã Tân Lân"
+                    },
+                    {
+                        "name": "Xã Phước Tuy"
+                    },
+                    {
+                        "name": "Xã Long Hựu Đông"
+                    },
+                    {
+                        "name": "Xã Tân Ân"
+                    },
+                    {
+                        "name": "Xã Phước Đông"
+                    },
+                    {
+                        "name": "Xã Long Hựu Tây"
+                    },
+                    {
+                        "name": "Xã Tân Chánh"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Cần Giuộc",
+                "wards": [
+                    {
+                        "name": "Thị trấn Cần Giuộc"
+                    },
+                    {
+                        "name": "Xã Phước Lý"
+                    },
+                    {
+                        "name": "Xã Long Thượng"
+                    },
+                    {
+                        "name": "Xã Long Hậu"
+                    },
+                    {
+                        "name": "Xã Phước Hậu"
+                    },
+                    {
+                        "name": "Xã Mỹ Lộc"
+                    },
+                    {
+                        "name": "Xã Phước Lại"
+                    },
+                    {
+                        "name": "Xã Phước Lâm"
+                    },
+                    {
+                        "name": "Xã Thuận Thành"
+                    },
+                    {
+                        "name": "Xã Phước Vĩnh Tây"
+                    },
+                    {
+                        "name": "Xã Phước Vĩnh Đông"
+                    },
+                    {
+                        "name": "Xã Long An"
+                    },
+                    {
+                        "name": "Xã Long Phụng"
+                    },
+                    {
+                        "name": "Xã Đông Thạnh"
+                    },
+                    {
+                        "name": "Xã Tân Tập"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Châu Thành",
+                "wards": [
+                    {
+                        "name": "Thị trấn Tầm Vu"
+                    },
+                    {
+                        "name": "Xã Bình Quới"
+                    },
+                    {
+                        "name": "Xã Hòa Phú"
+                    },
+                    {
+                        "name": "Xã Phú Ngãi Trị"
+                    },
+                    {
+                        "name": "Xã Vĩnh Công"
+                    },
+                    {
+                        "name": "Xã Thuận Mỹ"
+                    },
+                    {
+                        "name": "Xã Hiệp Thạnh"
+                    },
+                    {
+                        "name": "Xã Phước Tân Hưng"
+                    },
+                    {
+                        "name": "Xã Thanh Phú Long"
+                    },
+                    {
+                        "name": "Xã Dương Xuân Hội"
+                    },
+                    {
+                        "name": "Xã An Lục Long"
+                    },
+                    {
+                        "name": "Xã Long Trì"
+                    },
+                    {
+                        "name": "Xã Thanh Vĩnh Đông"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Tỉnh Tiền Giang",
+        "districts": [
+            {
+                "name": "Thành phố Mỹ Tho",
+                "wards": [
+                    {
+                        "name": "Phường 5"
+                    },
+                    {
+                        "name": "Phường 4"
+                    },
+                    {
+                        "name": "Phường 7"
+                    },
+                    {
+                        "name": "Phường 3"
+                    },
+                    {
+                        "name": "Phường 1"
+                    },
+                    {
+                        "name": "Phường 2"
+                    },
+                    {
+                        "name": "Phường 8"
+                    },
+                    {
+                        "name": "Phường 6"
+                    },
+                    {
+                        "name": "Phường 9"
+                    },
+                    {
+                        "name": "Phường 10"
+                    },
+                    {
+                        "name": "Phường Tân Long"
+                    },
+                    {
+                        "name": "Xã Đạo Thạnh"
+                    },
+                    {
+                        "name": "Xã Trung An"
+                    },
+                    {
+                        "name": "Xã Mỹ Phong"
+                    },
+                    {
+                        "name": "Xã Tân Mỹ Chánh"
+                    },
+                    {
+                        "name": "Xã Phước Thạnh"
+                    },
+                    {
+                        "name": "Xã Thới Sơn"
+                    }
+                ]
+            },
+            {
+                "name": "Thị xã Gò Công",
+                "wards": [
+                    {
+                        "name": "Phường 3"
+                    },
+                    {
+                        "name": "Phường 2"
+                    },
+                    {
+                        "name": "Phường 4"
+                    },
+                    {
+                        "name": "Phường 1"
+                    },
+                    {
+                        "name": "Phường 5"
+                    },
+                    {
+                        "name": "Xã Long Hưng"
+                    },
+                    {
+                        "name": "Xã Long Thuận"
+                    },
+                    {
+                        "name": "Xã Long Chánh"
+                    },
+                    {
+                        "name": "Xã Long Hòa"
+                    },
+                    {
+                        "name": "Xã Bình Đông"
+                    },
+                    {
+                        "name": "Xã Bình Xuân"
+                    },
+                    {
+                        "name": "Xã Tân Trung"
+                    }
+                ]
+            },
+            {
+                "name": "Thị xã Cai Lậy",
+                "wards": [
+                    {
+                        "name": "Phường 1"
+                    },
+                    {
+                        "name": "Phường 2"
+                    },
+                    {
+                        "name": "Phường 3"
+                    },
+                    {
+                        "name": "Phường 4"
+                    },
+                    {
+                        "name": "Phường 5"
+                    },
+                    {
+                        "name": "Xã Mỹ Phước Tây"
+                    },
+                    {
+                        "name": "Xã Mỹ Hạnh Đông"
+                    },
+                    {
+                        "name": "Xã Mỹ Hạnh Trung"
+                    },
+                    {
+                        "name": "Xã Tân Phú"
+                    },
+                    {
+                        "name": "Xã Tân Bình"
+                    },
+                    {
+                        "name": "Xã Tân Hội"
+                    },
+                    {
+                        "name": "Phường Nhị Mỹ"
+                    },
+                    {
+                        "name": "Xã Nhị Quý"
+                    },
+                    {
+                        "name": "Xã Thanh Hòa"
+                    },
+                    {
+                        "name": "Xã Phú Quý"
+                    },
+                    {
+                        "name": "Xã Long Khánh"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Tân Phước",
+                "wards": [
+                    {
+                        "name": "Thị trấn Mỹ Phước"
+                    },
+                    {
+                        "name": "Xã Tân Hòa Đông"
+                    },
+                    {
+                        "name": "Xã Thạnh Tân"
+                    },
+                    {
+                        "name": "Xã Thạnh Mỹ"
+                    },
+                    {
+                        "name": "Xã Thạnh Hoà"
+                    },
+                    {
+                        "name": "Xã Phú Mỹ"
+                    },
+                    {
+                        "name": "Xã Tân Hòa Thành"
+                    },
+                    {
+                        "name": "Xã Hưng Thạnh"
+                    },
+                    {
+                        "name": "Xã Tân Lập 1"
+                    },
+                    {
+                        "name": "Xã Tân Hòa Tây"
+                    },
+                    {
+                        "name": "Xã Tân Lập 2"
+                    },
+                    {
+                        "name": "Xã Phước Lập"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Cái Bè",
+                "wards": [
+                    {
+                        "name": "Thị trấn Cái Bè"
+                    },
+                    {
+                        "name": "Xã Hậu Mỹ Bắc B"
+                    },
+                    {
+                        "name": "Xã Hậu Mỹ Bắc A"
+                    },
+                    {
+                        "name": "Xã Mỹ Trung"
+                    },
+                    {
+                        "name": "Xã Hậu Mỹ Trinh"
+                    },
+                    {
+                        "name": "Xã Hậu Mỹ Phú"
+                    },
+                    {
+                        "name": "Xã Mỹ Tân"
+                    },
+                    {
+                        "name": "Xã Mỹ Lợi B"
+                    },
+                    {
+                        "name": "Xã Thiện Trung"
+                    },
+                    {
+                        "name": "Xã Mỹ Hội"
+                    },
+                    {
+                        "name": "Xã An Cư"
+                    },
+                    {
+                        "name": "Xã Hậu Thành"
+                    },
+                    {
+                        "name": "Xã Mỹ Lợi A"
+                    },
+                    {
+                        "name": "Xã Hòa Khánh"
+                    },
+                    {
+                        "name": "Xã Thiện Trí"
+                    },
+                    {
+                        "name": "Xã Mỹ Đức Đông"
+                    },
+                    {
+                        "name": "Xã Mỹ Đức Tây"
+                    },
+                    {
+                        "name": "Xã Đông Hòa Hiệp"
+                    },
+                    {
+                        "name": "Xã An Thái Đông"
+                    },
+                    {
+                        "name": "Xã Tân Hưng"
+                    },
+                    {
+                        "name": "Xã Mỹ Lương"
+                    },
+                    {
+                        "name": "Xã Tân Thanh"
+                    },
+                    {
+                        "name": "Xã An Thái Trung"
+                    },
+                    {
+                        "name": "Xã An Hữu"
+                    },
+                    {
+                        "name": "Xã Hòa Hưng"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Cai Lậy",
+                "wards": [
+                    {
+                        "name": "Xã Thạnh Lộc"
+                    },
+                    {
+                        "name": "Xã Mỹ Thành Bắc"
+                    },
+                    {
+                        "name": "Xã Phú Cường"
+                    },
+                    {
+                        "name": "Xã Mỹ Thành Nam"
+                    },
+                    {
+                        "name": "Xã Phú Nhuận"
+                    },
+                    {
+                        "name": "Xã Bình Phú"
+                    },
+                    {
+                        "name": "Xã Cẩm Sơn"
+                    },
+                    {
+                        "name": "Xã Phú An"
+                    },
+                    {
+                        "name": "Xã Mỹ Long"
+                    },
+                    {
+                        "name": "Xã Long Tiên"
+                    },
+                    {
+                        "name": "Xã Hiệp Đức"
+                    },
+                    {
+                        "name": "Xã Long Trung"
+                    },
+                    {
+                        "name": "Xã Hội Xuân"
+                    },
+                    {
+                        "name": "Xã Tân Phong"
+                    },
+                    {
+                        "name": "Xã Tam Bình"
+                    },
+                    {
+                        "name": "Xã Ngũ Hiệp"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Châu Thành",
+                "wards": [
+                    {
+                        "name": "Thị trấn Tân Hiệp"
+                    },
+                    {
+                        "name": "Xã Tân Hội Đông"
+                    },
+                    {
+                        "name": "Xã Tân Hương"
+                    },
+                    {
+                        "name": "Xã Tân Lý Đông"
+                    },
+                    {
+                        "name": "Xã Tân Lý Tây"
+                    },
+                    {
+                        "name": "Xã Thân Cửu Nghĩa"
+                    },
+                    {
+                        "name": "Xã Tam Hiệp"
+                    },
+                    {
+                        "name": "Xã Điềm Hy"
+                    },
+                    {
+                        "name": "Xã Nhị Bình"
+                    },
+                    {
+                        "name": "Xã Dưỡng Điềm"
+                    },
+                    {
+                        "name": "Xã Đông Hòa"
+                    },
+                    {
+                        "name": "Xã Long Định"
+                    },
+                    {
+                        "name": "Xã Hữu Đạo"
+                    },
+                    {
+                        "name": "Xã Long An"
+                    },
+                    {
+                        "name": "Xã Long Hưng"
+                    },
+                    {
+                        "name": "Xã Bình Trưng"
+                    },
+                    {
+                        "name": "Xã Thạnh Phú"
+                    },
+                    {
+                        "name": "Xã Bàn Long"
+                    },
+                    {
+                        "name": "Xã Vĩnh Kim"
+                    },
+                    {
+                        "name": "Xã Bình Đức"
+                    },
+                    {
+                        "name": "Xã Song Thuận"
+                    },
+                    {
+                        "name": "Xã Kim Sơn"
+                    },
+                    {
+                        "name": "Xã Phú Phong"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Chợ Gạo",
+                "wards": [
+                    {
+                        "name": "Thị trấn Chợ Gạo"
+                    },
+                    {
+                        "name": "Xã Trung Hòa"
+                    },
+                    {
+                        "name": "Xã Hòa Tịnh"
+                    },
+                    {
+                        "name": "Xã Mỹ Tịnh An"
+                    },
+                    {
+                        "name": "Xã Tân Bình Thạnh"
+                    },
+                    {
+                        "name": "Xã Phú Kiết"
+                    },
+                    {
+                        "name": "Xã Lương Hòa Lạc"
+                    },
+                    {
+                        "name": "Xã Thanh Bình"
+                    },
+                    {
+                        "name": "Xã Quơn Long"
+                    },
+                    {
+                        "name": "Xã Bình Phục Nhứt"
+                    },
+                    {
+                        "name": "Xã Đăng Hưng Phước"
+                    },
+                    {
+                        "name": "Xã Tân Thuận Bình"
+                    },
+                    {
+                        "name": "Xã Song Bình"
+                    },
+                    {
+                        "name": "Xã Bình Phan"
+                    },
+                    {
+                        "name": "Xã Long Bình Điền"
+                    },
+                    {
+                        "name": "Xã An Thạnh Thủy"
+                    },
+                    {
+                        "name": "Xã Xuân Đông"
+                    },
+                    {
+                        "name": "Xã Hòa Định"
+                    },
+                    {
+                        "name": "Xã Bình Ninh"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Gò Công Tây",
+                "wards": [
+                    {
+                        "name": "Thị trấn Vĩnh Bình"
+                    },
+                    {
+                        "name": "Xã Đồng Sơn"
+                    },
+                    {
+                        "name": "Xã Bình Phú"
+                    },
+                    {
+                        "name": "Xã Đồng Thạnh"
+                    },
+                    {
+                        "name": "Xã Thành Công"
+                    },
+                    {
+                        "name": "Xã Bình Nhì"
+                    },
+                    {
+                        "name": "Xã Yên Luông"
+                    },
+                    {
+                        "name": "Xã Thạnh Trị"
+                    },
+                    {
+                        "name": "Xã Thạnh Nhựt"
+                    },
+                    {
+                        "name": "Xã Long Vĩnh"
+                    },
+                    {
+                        "name": "Xã Bình Tân"
+                    },
+                    {
+                        "name": "Xã Vĩnh Hựu"
+                    },
+                    {
+                        "name": "Xã Long Bình"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Gò Công Đông",
+                "wards": [
+                    {
+                        "name": "Thị trấn Tân Hòa"
+                    },
+                    {
+                        "name": "Xã Tăng Hoà"
+                    },
+                    {
+                        "name": "Xã Tân Phước"
+                    },
+                    {
+                        "name": "Xã Gia Thuận"
+                    },
+                    {
+                        "name": "Thị trấn Vàm Láng"
+                    },
+                    {
+                        "name": "Xã Tân Tây"
+                    },
+                    {
+                        "name": "Xã Kiểng Phước"
+                    },
+                    {
+                        "name": "Xã Tân Đông"
+                    },
+                    {
+                        "name": "Xã Bình Ân"
+                    },
+                    {
+                        "name": "Xã Tân Điền"
+                    },
+                    {
+                        "name": "Xã Bình Nghị"
+                    },
+                    {
+                        "name": "Xã Phước Trung"
+                    },
+                    {
+                        "name": "Xã Tân Thành"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Tân Phú Đông",
+                "wards": [
+                    {
+                        "name": "Xã Tân Thới"
+                    },
+                    {
+                        "name": "Xã Tân Phú"
+                    },
+                    {
+                        "name": "Xã Phú Thạnh"
+                    },
+                    {
+                        "name": "Xã Tân Thạnh"
+                    },
+                    {
+                        "name": "Xã Phú Đông"
+                    },
+                    {
+                        "name": "Xã Phú Tân"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Tỉnh Bến Tre",
+        "districts": [
+            {
+                "name": "Thành phố Bến Tre",
+                "wards": [
+                    {
+                        "name": "Phường Phú Khương"
+                    },
+                    {
+                        "name": "Phường Phú Tân"
+                    },
+                    {
+                        "name": "Phường 8"
+                    },
+                    {
+                        "name": "Phường 6"
+                    },
+                    {
+                        "name": "Phường 4"
+                    },
+                    {
+                        "name": "Phường 5"
+                    },
+                    {
+                        "name": "Phường An Hội"
+                    },
+                    {
+                        "name": "Phường 7"
+                    },
+                    {
+                        "name": "Xã Sơn Đông"
+                    },
+                    {
+                        "name": "Xã Phú Hưng"
+                    },
+                    {
+                        "name": "Xã Bình Phú"
+                    },
+                    {
+                        "name": "Xã Mỹ Thạnh An"
+                    },
+                    {
+                        "name": "Xã Nhơn Thạnh"
+                    },
+                    {
+                        "name": "Xã Phú Nhuận"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Châu Thành",
+                "wards": [
+                    {
+                        "name": "Thị trấn Châu Thành"
+                    },
+                    {
+                        "name": "Xã Tân Thạch"
+                    },
+                    {
+                        "name": "Xã Qưới Sơn"
+                    },
+                    {
+                        "name": "Xã An Khánh"
+                    },
+                    {
+                        "name": "Xã Giao Long"
+                    },
+                    {
+                        "name": "Xã Phú Túc"
+                    },
+                    {
+                        "name": "Xã Phú Đức"
+                    },
+                    {
+                        "name": "Xã Phú An Hòa"
+                    },
+                    {
+                        "name": "Xã An Phước"
+                    },
+                    {
+                        "name": "Xã Tam Phước"
+                    },
+                    {
+                        "name": "Xã Thành Triệu"
+                    },
+                    {
+                        "name": "Xã Tường Đa"
+                    },
+                    {
+                        "name": "Xã Tân Phú"
+                    },
+                    {
+                        "name": "Xã Quới Thành"
+                    },
+                    {
+                        "name": "Xã Phước Thạnh"
+                    },
+                    {
+                        "name": "Xã An Hóa"
+                    },
+                    {
+                        "name": "Xã Tiên Long"
+                    },
+                    {
+                        "name": "Xã An Hiệp"
+                    },
+                    {
+                        "name": "Xã Hữu Định"
+                    },
+                    {
+                        "name": "Xã Tiên Thủy"
+                    },
+                    {
+                        "name": "Xã Sơn Hòa"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Chợ Lách",
+                "wards": [
+                    {
+                        "name": "Thị trấn Chợ Lách"
+                    },
+                    {
+                        "name": "Xã Phú Phụng"
+                    },
+                    {
+                        "name": "Xã Sơn Định"
+                    },
+                    {
+                        "name": "Xã Vĩnh Bình"
+                    },
+                    {
+                        "name": "Xã Hòa Nghĩa"
+                    },
+                    {
+                        "name": "Xã Long Thới"
+                    },
+                    {
+                        "name": "Xã Phú Sơn"
+                    },
+                    {
+                        "name": "Xã Tân Thiềng"
+                    },
+                    {
+                        "name": "Xã Vĩnh Thành"
+                    },
+                    {
+                        "name": "Xã Vĩnh Hòa"
+                    },
+                    {
+                        "name": "Xã Hưng Khánh Trung B"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Mỏ Cày Nam",
+                "wards": [
+                    {
+                        "name": "Thị trấn Mỏ Cày"
+                    },
+                    {
+                        "name": "Xã Định Thủy"
+                    },
+                    {
+                        "name": "Xã Đa Phước Hội"
+                    },
+                    {
+                        "name": "Xã Tân Hội"
+                    },
+                    {
+                        "name": "Xã Phước Hiệp"
+                    },
+                    {
+                        "name": "Xã Bình Khánh "
+                    },
+                    {
+                        "name": "Xã An Thạnh"
+                    },
+                    {
+                        "name": "Xã An Định"
+                    },
+                    {
+                        "name": "Xã Thành Thới B"
+                    },
+                    {
+                        "name": "Xã Tân Trung"
+                    },
+                    {
+                        "name": "Xã An Thới"
+                    },
+                    {
+                        "name": "Xã Thành Thới A"
+                    },
+                    {
+                        "name": "Xã Minh Đức"
+                    },
+                    {
+                        "name": "Xã Ngãi Đăng"
+                    },
+                    {
+                        "name": "Xã Cẩm Sơn"
+                    },
+                    {
+                        "name": "Xã Hương Mỹ"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Giồng Trôm",
+                "wards": [
+                    {
+                        "name": "Thị trấn Giồng Trôm"
+                    },
+                    {
+                        "name": "Xã Phong Nẫm"
+                    },
+                    {
+                        "name": "Xã Mỹ Thạnh"
+                    },
+                    {
+                        "name": "Xã Châu Hòa"
+                    },
+                    {
+                        "name": "Xã Lương Hòa"
+                    },
+                    {
+                        "name": "Xã Lương Quới"
+                    },
+                    {
+                        "name": "Xã Lương Phú"
+                    },
+                    {
+                        "name": "Xã Châu Bình"
+                    },
+                    {
+                        "name": "Xã Thuận Điền"
+                    },
+                    {
+                        "name": "Xã Sơn Phú"
+                    },
+                    {
+                        "name": "Xã Bình Hoà"
+                    },
+                    {
+                        "name": "Xã Phước Long"
+                    },
+                    {
+                        "name": "Xã Hưng Phong"
+                    },
+                    {
+                        "name": "Xã Long Mỹ"
+                    },
+                    {
+                        "name": "Xã Tân Hào"
+                    },
+                    {
+                        "name": "Xã Bình Thành"
+                    },
+                    {
+                        "name": "Xã Tân Thanh"
+                    },
+                    {
+                        "name": "Xã Tân Lợi Thạnh"
+                    },
+                    {
+                        "name": "Xã Thạnh Phú Đông"
+                    },
+                    {
+                        "name": "Xã Hưng Nhượng"
+                    },
+                    {
+                        "name": "Xã Hưng Lễ"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Bình Đại",
+                "wards": [
+                    {
+                        "name": "Thị trấn Bình Đại"
+                    },
+                    {
+                        "name": "Xã Tam Hiệp"
+                    },
+                    {
+                        "name": "Xã Long Định"
+                    },
+                    {
+                        "name": "Xã Long Hòa"
+                    },
+                    {
+                        "name": "Xã Phú Thuận"
+                    },
+                    {
+                        "name": "Xã Vang Quới Tây"
+                    },
+                    {
+                        "name": "Xã Vang Quới Đông"
+                    },
+                    {
+                        "name": "Xã Châu Hưng"
+                    },
+                    {
+                        "name": "Xã Phú Vang"
+                    },
+                    {
+                        "name": "Xã Lộc Thuận"
+                    },
+                    {
+                        "name": "Xã Định Trung"
+                    },
+                    {
+                        "name": "Xã Thới Lai"
+                    },
+                    {
+                        "name": "Xã Bình Thới"
+                    },
+                    {
+                        "name": "Xã Phú Long"
+                    },
+                    {
+                        "name": "Xã Bình Thắng"
+                    },
+                    {
+                        "name": "Xã Thạnh Trị"
+                    },
+                    {
+                        "name": "Xã Đại Hòa Lộc"
+                    },
+                    {
+                        "name": "Xã Thừa Đức"
+                    },
+                    {
+                        "name": "Xã Thạnh Phước"
+                    },
+                    {
+                        "name": "Xã Thới Thuận"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Ba Tri",
+                "wards": [
+                    {
+                        "name": "Thị trấn Ba Tri"
+                    },
+                    {
+                        "name": "Xã Tân Mỹ"
+                    },
+                    {
+                        "name": "Xã Mỹ Hòa"
+                    },
+                    {
+                        "name": "Xã Tân Xuân"
+                    },
+                    {
+                        "name": "Xã Mỹ Chánh"
+                    },
+                    {
+                        "name": "Xã Bảo Thạnh"
+                    },
+                    {
+                        "name": "Xã An Phú Trung"
+                    },
+                    {
+                        "name": "Xã Mỹ Thạnh"
+                    },
+                    {
+                        "name": "Xã Mỹ Nhơn"
+                    },
+                    {
+                        "name": "Xã Phước Ngãi"
+                    },
+                    {
+                        "name": "Xã An Ngãi Trung"
+                    },
+                    {
+                        "name": "Xã Phú Lễ"
+                    },
+                    {
+                        "name": "Xã An Bình Tây"
+                    },
+                    {
+                        "name": "Xã Bảo Thuận"
+                    },
+                    {
+                        "name": "Xã Tân Hưng"
+                    },
+                    {
+                        "name": "Xã An Ngãi Tây"
+                    },
+                    {
+                        "name": "Xã An Hiệp"
+                    },
+                    {
+                        "name": "Xã Vĩnh Hòa"
+                    },
+                    {
+                        "name": "Xã Tân Thủy"
+                    },
+                    {
+                        "name": "Xã Vĩnh An"
+                    },
+                    {
+                        "name": "Xã An Đức"
+                    },
+                    {
+                        "name": "Xã An Hòa Tây"
+                    },
+                    {
+                        "name": "Xã An Thủy"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Thạnh Phú",
+                "wards": [
+                    {
+                        "name": "Thị trấn Thạnh Phú"
+                    },
+                    {
+                        "name": "Xã Phú Khánh"
+                    },
+                    {
+                        "name": "Xã Đại Điền"
+                    },
+                    {
+                        "name": "Xã Quới Điền"
+                    },
+                    {
+                        "name": "Xã Tân Phong"
+                    },
+                    {
+                        "name": "Xã Mỹ Hưng"
+                    },
+                    {
+                        "name": "Xã An Thạnh"
+                    },
+                    {
+                        "name": "Xã Thới Thạnh"
+                    },
+                    {
+                        "name": "Xã Hòa Lợi"
+                    },
+                    {
+                        "name": "Xã An Điền"
+                    },
+                    {
+                        "name": "Xã Bình Thạnh"
+                    },
+                    {
+                        "name": "Xã An Thuận"
+                    },
+                    {
+                        "name": "Xã An Quy"
+                    },
+                    {
+                        "name": "Xã Thạnh Hải"
+                    },
+                    {
+                        "name": "Xã An Nhơn"
+                    },
+                    {
+                        "name": "Xã Giao Thạnh"
+                    },
+                    {
+                        "name": "Xã Thạnh Phong"
+                    },
+                    {
+                        "name": "Xã Mỹ An"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Mỏ Cày Bắc",
+                "wards": [
+                    {
+                        "name": "Xã Phú Mỹ"
+                    },
+                    {
+                        "name": "Xã Hưng Khánh Trung A"
+                    },
+                    {
+                        "name": "Xã Thanh Tân"
+                    },
+                    {
+                        "name": "Xã Thạnh Ngãi"
+                    },
+                    {
+                        "name": "Xã Tân Phú Tây"
+                    },
+                    {
+                        "name": "Xã Phước Mỹ Trung"
+                    },
+                    {
+                        "name": "Xã Tân Thành Bình"
+                    },
+                    {
+                        "name": "Xã Thành An"
+                    },
+                    {
+                        "name": "Xã Hòa Lộc"
+                    },
+                    {
+                        "name": "Xã Tân Thanh Tây"
+                    },
+                    {
+                        "name": "Xã Tân Bình"
+                    },
+                    {
+                        "name": "Xã Nhuận Phú Tân"
+                    },
+                    {
+                        "name": "Xã Khánh Thạnh Tân"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Tỉnh Trà Vinh",
+        "districts": [
+            {
+                "name": "Thành phố Trà Vinh",
+                "wards": [
+                    {
+                        "name": "Phường 4"
+                    },
+                    {
+                        "name": "Phường 1"
+                    },
+                    {
+                        "name": "Phường 3"
+                    },
+                    {
+                        "name": "Phường 2"
+                    },
+                    {
+                        "name": "Phường 5"
+                    },
+                    {
+                        "name": "Phường 6"
+                    },
+                    {
+                        "name": "Phường 7"
+                    },
+                    {
+                        "name": "Phường 8"
+                    },
+                    {
+                        "name": "Phường 9"
+                    },
+                    {
+                        "name": "Xã Long Đức"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Càng Long",
+                "wards": [
+                    {
+                        "name": "Thị trấn Càng Long"
+                    },
+                    {
+                        "name": "Xã Mỹ Cẩm"
+                    },
+                    {
+                        "name": "Xã An Trường A"
+                    },
+                    {
+                        "name": "Xã An Trường"
+                    },
+                    {
+                        "name": "Xã Huyền Hội"
+                    },
+                    {
+                        "name": "Xã Tân An"
+                    },
+                    {
+                        "name": "Xã Tân Bình"
+                    },
+                    {
+                        "name": "Xã Bình Phú"
+                    },
+                    {
+                        "name": "Xã Phương Thạnh"
+                    },
+                    {
+                        "name": "Xã Đại Phúc"
+                    },
+                    {
+                        "name": "Xã Đại Phước"
+                    },
+                    {
+                        "name": "Xã Nhị Long Phú"
+                    },
+                    {
+                        "name": "Xã Nhị Long"
+                    },
+                    {
+                        "name": "Xã Đức Mỹ"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Cầu Kè",
+                "wards": [
+                    {
+                        "name": "Thị trấn Cầu Kè"
+                    },
+                    {
+                        "name": "Xã Hòa Ân"
+                    },
+                    {
+                        "name": "Xã Châu Điền"
+                    },
+                    {
+                        "name": "Xã An Phú Tân"
+                    },
+                    {
+                        "name": "Xã Hoà Tân"
+                    },
+                    {
+                        "name": "Xã Ninh Thới"
+                    },
+                    {
+                        "name": "Xã Phong Phú"
+                    },
+                    {
+                        "name": "Xã Phong Thạnh"
+                    },
+                    {
+                        "name": "Xã Tam Ngãi"
+                    },
+                    {
+                        "name": "Xã Thông Hòa"
+                    },
+                    {
+                        "name": "Xã Thạnh Phú"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Tiểu Cần",
+                "wards": [
+                    {
+                        "name": "Thị trấn Tiểu Cần"
+                    },
+                    {
+                        "name": "Thị trấn Cầu Quan"
+                    },
+                    {
+                        "name": "Xã Phú Cần"
+                    },
+                    {
+                        "name": "Xã Hiếu Tử"
+                    },
+                    {
+                        "name": "Xã Hiếu Trung"
+                    },
+                    {
+                        "name": "Xã Long Thới"
+                    },
+                    {
+                        "name": "Xã Hùng Hòa"
+                    },
+                    {
+                        "name": "Xã Tân Hùng"
+                    },
+                    {
+                        "name": "Xã Tập Ngãi"
+                    },
+                    {
+                        "name": "Xã Ngãi Hùng"
+                    },
+                    {
+                        "name": "Xã Tân Hòa"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Châu Thành",
+                "wards": [
+                    {
+                        "name": "Thị trấn Châu Thành"
+                    },
+                    {
+                        "name": "Xã Đa Lộc"
+                    },
+                    {
+                        "name": "Xã Mỹ Chánh"
+                    },
+                    {
+                        "name": "Xã Thanh Mỹ"
+                    },
+                    {
+                        "name": "Xã Lương Hoà A"
+                    },
+                    {
+                        "name": "Xã Lương Hòa"
+                    },
+                    {
+                        "name": "Xã Song Lộc"
+                    },
+                    {
+                        "name": "Xã Nguyệt Hóa"
+                    },
+                    {
+                        "name": "Xã Hòa Thuận"
+                    },
+                    {
+                        "name": "Xã Hòa Lợi"
+                    },
+                    {
+                        "name": "Xã Phước Hảo"
+                    },
+                    {
+                        "name": "Xã Hưng Mỹ"
+                    },
+                    {
+                        "name": "Xã Hòa Minh"
+                    },
+                    {
+                        "name": "Xã Long Hòa"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Cầu Ngang",
+                "wards": [
+                    {
+                        "name": "Thị trấn Cầu Ngang"
+                    },
+                    {
+                        "name": "Thị trấn Mỹ Long"
+                    },
+                    {
+                        "name": "Xã Mỹ Long Bắc"
+                    },
+                    {
+                        "name": "Xã Mỹ Long Nam"
+                    },
+                    {
+                        "name": "Xã Mỹ Hòa"
+                    },
+                    {
+                        "name": "Xã Vĩnh Kim"
+                    },
+                    {
+                        "name": "Xã Kim Hòa"
+                    },
+                    {
+                        "name": "Xã Hiệp Hòa"
+                    },
+                    {
+                        "name": "Xã Thuận Hòa"
+                    },
+                    {
+                        "name": "Xã Long Sơn"
+                    },
+                    {
+                        "name": "Xã Nhị Trường"
+                    },
+                    {
+                        "name": "Xã Trường Thọ"
+                    },
+                    {
+                        "name": "Xã Hiệp Mỹ Đông"
+                    },
+                    {
+                        "name": "Xã Hiệp Mỹ Tây"
+                    },
+                    {
+                        "name": "Xã Thạnh Hòa Sơn"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Trà Cú",
+                "wards": [
+                    {
+                        "name": "Thị trấn Trà Cú"
+                    },
+                    {
+                        "name": "Thị trấn Định An"
+                    },
+                    {
+                        "name": "Xã Phước Hưng"
+                    },
+                    {
+                        "name": "Xã Tập Sơn"
+                    },
+                    {
+                        "name": "Xã Tân Sơn"
+                    },
+                    {
+                        "name": "Xã An Quảng Hữu"
+                    },
+                    {
+                        "name": "Xã Lưu Nghiệp Anh"
+                    },
+                    {
+                        "name": "Xã Ngãi Xuyên"
+                    },
+                    {
+                        "name": "Xã Kim Sơn"
+                    },
+                    {
+                        "name": "Xã Thanh Sơn"
+                    },
+                    {
+                        "name": "Xã Hàm Giang"
+                    },
+                    {
+                        "name": "Xã Hàm Tân"
+                    },
+                    {
+                        "name": "Xã Đại An"
+                    },
+                    {
+                        "name": "Xã Định An"
+                    },
+                    {
+                        "name": "Xã Ngọc Biên"
+                    },
+                    {
+                        "name": "Xã Long Hiệp"
+                    },
+                    {
+                        "name": "Xã Tân Hiệp"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Duyên Hải",
+                "wards": [
+                    {
+                        "name": "Xã Đôn Xuân"
+                    },
+                    {
+                        "name": "Xã Đôn Châu"
+                    },
+                    {
+                        "name": "Thị trấn Long Thành"
+                    },
+                    {
+                        "name": "Xã Long Khánh"
+                    },
+                    {
+                        "name": "Xã Ngũ Lạc"
+                    },
+                    {
+                        "name": "Xã Long Vĩnh"
+                    },
+                    {
+                        "name": "Xã Đông Hải"
+                    }
+                ]
+            },
+            {
+                "name": "Thị xã Duyên Hải",
+                "wards": [
+                    {
+                        "name": "Phường 1"
+                    },
+                    {
+                        "name": "Xã Long Toàn"
+                    },
+                    {
+                        "name": "Phường 2"
+                    },
+                    {
+                        "name": "Xã Long Hữu"
+                    },
+                    {
+                        "name": "Xã Dân Thành"
+                    },
+                    {
+                        "name": "Xã Trường Long Hòa"
+                    },
+                    {
+                        "name": "Xã Hiệp Thạnh"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Tỉnh Vĩnh Long",
+        "districts": [
+            {
+                "name": "Thành phố Vĩnh Long",
+                "wards": [
+                    {
+                        "name": "Phường 9"
+                    },
+                    {
+                        "name": "Phường 5"
+                    },
+                    {
+                        "name": "Phường 1"
+                    },
+                    {
+                        "name": "Phường 2"
+                    },
+                    {
+                        "name": "Phường 4"
+                    },
+                    {
+                        "name": "Phường 3"
+                    },
+                    {
+                        "name": "Phường 8"
+                    },
+                    {
+                        "name": "Phường Tân Ngãi"
+                    },
+                    {
+                        "name": "Phường Tân Hòa"
+                    },
+                    {
+                        "name": "Phường Tân Hội"
+                    },
+                    {
+                        "name": "Phường Trường An"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Long Hồ",
+                "wards": [
+                    {
+                        "name": "Thị trấn Long Hồ"
+                    },
+                    {
+                        "name": "Xã Đồng Phú"
+                    },
+                    {
+                        "name": "Xã Bình Hòa Phước"
+                    },
+                    {
+                        "name": "Xã Hòa Ninh"
+                    },
+                    {
+                        "name": "Xã An Bình"
+                    },
+                    {
+                        "name": "Xã Thanh Đức"
+                    },
+                    {
+                        "name": "Xã Tân Hạnh"
+                    },
+                    {
+                        "name": "Xã Phước Hậu"
+                    },
+                    {
+                        "name": "Xã Long Phước"
+                    },
+                    {
+                        "name": "Xã Phú Đức"
+                    },
+                    {
+                        "name": "Xã Lộc Hòa"
+                    },
+                    {
+                        "name": "Xã Long An"
+                    },
+                    {
+                        "name": "Xã Phú Quới"
+                    },
+                    {
+                        "name": "Xã Thạnh Quới"
+                    },
+                    {
+                        "name": "Xã Hòa Phú"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Mang Thít",
+                "wards": [
+                    {
+                        "name": "Xã Mỹ An"
+                    },
+                    {
+                        "name": "Xã Mỹ Phước"
+                    },
+                    {
+                        "name": "Xã An Phước"
+                    },
+                    {
+                        "name": "Xã Nhơn Phú"
+                    },
+                    {
+                        "name": "Xã Long Mỹ"
+                    },
+                    {
+                        "name": "Xã Hòa Tịnh"
+                    },
+                    {
+                        "name": "Thị trấn Cái Nhum"
+                    },
+                    {
+                        "name": "Xã Bình Phước"
+                    },
+                    {
+                        "name": "Xã Chánh An"
+                    },
+                    {
+                        "name": "Xã Tân An Hội"
+                    },
+                    {
+                        "name": "Xã Tân Long"
+                    },
+                    {
+                        "name": "Xã Tân Long Hội"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện  Vũng Liêm",
+                "wards": [
+                    {
+                        "name": "Thị trấn Vũng Liêm"
+                    },
+                    {
+                        "name": "Xã Tân Quới Trung"
+                    },
+                    {
+                        "name": "Xã Quới Thiện"
+                    },
+                    {
+                        "name": "Xã Quới An"
+                    },
+                    {
+                        "name": "Xã Trung Chánh"
+                    },
+                    {
+                        "name": "Xã Tân An Luông"
+                    },
+                    {
+                        "name": "Xã Thanh Bình"
+                    },
+                    {
+                        "name": "Xã Trung Thành Tây"
+                    },
+                    {
+                        "name": "Xã Trung Hiệp"
+                    },
+                    {
+                        "name": "Xã Hiếu Phụng"
+                    },
+                    {
+                        "name": "Xã Trung Thành Đông"
+                    },
+                    {
+                        "name": "Xã Trung Thành"
+                    },
+                    {
+                        "name": "Xã Trung Hiếu"
+                    },
+                    {
+                        "name": "Xã Trung Ngãi"
+                    },
+                    {
+                        "name": "Xã Hiếu Thuận"
+                    },
+                    {
+                        "name": "Xã Trung Nghĩa"
+                    },
+                    {
+                        "name": "Xã Trung An"
+                    },
+                    {
+                        "name": "Xã Hiếu Nhơn"
+                    },
+                    {
+                        "name": "Xã Hiếu Thành"
+                    },
+                    {
+                        "name": "Xã Hiếu Nghĩa"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Tam Bình",
+                "wards": [
+                    {
+                        "name": "Thị trấn Tam Bình"
+                    },
+                    {
+                        "name": "Xã Tân Lộc"
+                    },
+                    {
+                        "name": "Xã Phú Thịnh"
+                    },
+                    {
+                        "name": "Xã Hậu Lộc"
+                    },
+                    {
+                        "name": "Xã Hòa Thạnh"
+                    },
+                    {
+                        "name": "Xã Hoà Lộc"
+                    },
+                    {
+                        "name": "Xã Phú Lộc"
+                    },
+                    {
+                        "name": "Xã Song Phú"
+                    },
+                    {
+                        "name": "Xã Hòa Hiệp"
+                    },
+                    {
+                        "name": "Xã Mỹ Lộc"
+                    },
+                    {
+                        "name": "Xã Tân Phú"
+                    },
+                    {
+                        "name": "Xã Long Phú"
+                    },
+                    {
+                        "name": "Xã Mỹ Thạnh Trung"
+                    },
+                    {
+                        "name": "Xã Tường Lộc"
+                    },
+                    {
+                        "name": "Xã Loan Mỹ"
+                    },
+                    {
+                        "name": "Xã Ngãi Tứ"
+                    },
+                    {
+                        "name": "Xã Bình Ninh"
+                    }
+                ]
+            },
+            {
+                "name": "Thị xã Bình Minh",
+                "wards": [
+                    {
+                        "name": "Phường Cái Vồn"
+                    },
+                    {
+                        "name": "Phường Thành Phước"
+                    },
+                    {
+                        "name": "Xã Thuận An"
+                    },
+                    {
+                        "name": "Xã Đông Thạnh"
+                    },
+                    {
+                        "name": "Xã Đông Bình"
+                    },
+                    {
+                        "name": "Phường Đông Thuận"
+                    },
+                    {
+                        "name": "Xã Mỹ Hòa"
+                    },
+                    {
+                        "name": "Xã Đông Thành"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Trà Ôn",
+                "wards": [
+                    {
+                        "name": "Thị trấn Trà Ôn"
+                    },
+                    {
+                        "name": "Xã Xuân Hiệp"
+                    },
+                    {
+                        "name": "Xã Nhơn Bình"
+                    },
+                    {
+                        "name": "Xã Hòa Bình"
+                    },
+                    {
+                        "name": "Xã Thới Hòa"
+                    },
+                    {
+                        "name": "Xã Trà Côn"
+                    },
+                    {
+                        "name": "Xã Tân Mỹ"
+                    },
+                    {
+                        "name": "Xã Hựu Thành"
+                    },
+                    {
+                        "name": "Xã Vĩnh Xuân"
+                    },
+                    {
+                        "name": "Xã Thuận Thới"
+                    },
+                    {
+                        "name": "Xã Phú Thành"
+                    },
+                    {
+                        "name": "Xã Thiện Mỹ"
+                    },
+                    {
+                        "name": "Xã Lục Sỹ Thành"
+                    },
+                    {
+                        "name": "Xã Tích Thiện"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Bình Tân",
+                "wards": [
+                    {
+                        "name": "Xã Tân Hưng"
+                    },
+                    {
+                        "name": "Xã Tân Thành"
+                    },
+                    {
+                        "name": "Xã Thành Trung"
+                    },
+                    {
+                        "name": "Xã Tân An Thạnh"
+                    },
+                    {
+                        "name": "Xã Tân Lược"
+                    },
+                    {
+                        "name": "Xã Nguyễn Văn Thảnh"
+                    },
+                    {
+                        "name": "Xã Thành Lợi"
+                    },
+                    {
+                        "name": "Xã Mỹ Thuận"
+                    },
+                    {
+                        "name": "Xã Tân Bình"
+                    },
+                    {
+                        "name": "Thị trấn Tân Quới"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Tỉnh Đồng Tháp",
+        "districts": [
+            {
+                "name": "Thành phố Cao Lãnh",
+                "wards": [
+                    {
+                        "name": "Phường 11"
+                    },
+                    {
+                        "name": "Phường 1"
+                    },
+                    {
+                        "name": "Phường 2"
+                    },
+                    {
+                        "name": "Phường 4"
+                    },
+                    {
+                        "name": "Phường 3"
+                    },
+                    {
+                        "name": "Phường 6"
+                    },
+                    {
+                        "name": "Xã Mỹ Ngãi"
+                    },
+                    {
+                        "name": "Xã Mỹ Tân"
+                    },
+                    {
+                        "name": "Xã Mỹ Trà"
+                    },
+                    {
+                        "name": "Phường Mỹ Phú"
+                    },
+                    {
+                        "name": "Xã Tân Thuận Tây"
+                    },
+                    {
+                        "name": "Phường Hoà Thuận"
+                    },
+                    {
+                        "name": "Xã Hòa An"
+                    },
+                    {
+                        "name": "Xã Tân Thuận Đông"
+                    },
+                    {
+                        "name": "Xã Tịnh Thới"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Sa Đéc",
+                "wards": [
+                    {
+                        "name": "Phường 3"
+                    },
+                    {
+                        "name": "Phường 1"
+                    },
+                    {
+                        "name": "Phường 4"
+                    },
+                    {
+                        "name": "Phường 2"
+                    },
+                    {
+                        "name": "Xã Tân Khánh Đông"
+                    },
+                    {
+                        "name": "Phường Tân Quy Đông"
+                    },
+                    {
+                        "name": "Phường An Hoà"
+                    },
+                    {
+                        "name": "Xã Tân Quy Tây"
+                    },
+                    {
+                        "name": "Xã Tân Phú Đông"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Hồng Ngự",
+                "wards": [
+                    {
+                        "name": "Phường An Lộc"
+                    },
+                    {
+                        "name": "Phường An Thạnh"
+                    },
+                    {
+                        "name": "Xã Bình Thạnh"
+                    },
+                    {
+                        "name": "Xã Tân Hội"
+                    },
+                    {
+                        "name": "Phường An Lạc"
+                    },
+                    {
+                        "name": "Phường An Bình B"
+                    },
+                    {
+                        "name": "Phường An Bình A"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Tân Hồng",
+                "wards": [
+                    {
+                        "name": "Thị trấn Sa Rài"
+                    },
+                    {
+                        "name": "Xã Tân Hộ Cơ"
+                    },
+                    {
+                        "name": "Xã Thông Bình"
+                    },
+                    {
+                        "name": "Xã Bình Phú"
+                    },
+                    {
+                        "name": "Xã Tân Thành A"
+                    },
+                    {
+                        "name": "Xã Tân Thành B"
+                    },
+                    {
+                        "name": "Xã Tân Phước"
+                    },
+                    {
+                        "name": "Xã Tân Công Chí"
+                    },
+                    {
+                        "name": "Xã An Phước"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Hồng Ngự",
+                "wards": [
+                    {
+                        "name": "Xã Thường Phước 1"
+                    },
+                    {
+                        "name": "Xã Thường Thới Hậu A"
+                    },
+                    {
+                        "name": "Thị trấn Thường Thới Tiền"
+                    },
+                    {
+                        "name": "Xã Thường Phước 2"
+                    },
+                    {
+                        "name": "Xã Thường Lạc"
+                    },
+                    {
+                        "name": "Xã Long Khánh A"
+                    },
+                    {
+                        "name": "Xã Long Khánh B"
+                    },
+                    {
+                        "name": "Xã Long Thuận"
+                    },
+                    {
+                        "name": "Xã Phú Thuận B"
+                    },
+                    {
+                        "name": "Xã Phú Thuận A"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Tam Nông",
+                "wards": [
+                    {
+                        "name": "Thị trấn Tràm Chim"
+                    },
+                    {
+                        "name": "Xã Hoà Bình"
+                    },
+                    {
+                        "name": "Xã Tân Công Sính"
+                    },
+                    {
+                        "name": "Xã Phú Hiệp"
+                    },
+                    {
+                        "name": "Xã Phú Đức"
+                    },
+                    {
+                        "name": "Xã Phú Thành B"
+                    },
+                    {
+                        "name": "Xã An Hòa"
+                    },
+                    {
+                        "name": "Xã An Long"
+                    },
+                    {
+                        "name": "Xã Phú Cường"
+                    },
+                    {
+                        "name": "Xã Phú Ninh"
+                    },
+                    {
+                        "name": "Xã Phú Thọ"
+                    },
+                    {
+                        "name": "Xã Phú Thành A"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Tháp Mười",
+                "wards": [
+                    {
+                        "name": "Thị trấn Mỹ An"
+                    },
+                    {
+                        "name": "Xã Thạnh Lợi"
+                    },
+                    {
+                        "name": "Xã Hưng Thạnh"
+                    },
+                    {
+                        "name": "Xã Trường Xuân"
+                    },
+                    {
+                        "name": "Xã Tân Kiều"
+                    },
+                    {
+                        "name": "Xã Mỹ Hòa"
+                    },
+                    {
+                        "name": "Xã Mỹ Quý"
+                    },
+                    {
+                        "name": "Xã Mỹ Đông"
+                    },
+                    {
+                        "name": "Xã Đốc Binh Kiều"
+                    },
+                    {
+                        "name": "Xã Mỹ An"
+                    },
+                    {
+                        "name": "Xã Phú Điền"
+                    },
+                    {
+                        "name": "Xã Láng Biển"
+                    },
+                    {
+                        "name": "Xã Thanh Mỹ"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Cao Lãnh",
+                "wards": [
+                    {
+                        "name": "Thị trấn Mỹ Thọ"
+                    },
+                    {
+                        "name": "Xã Gáo Giồng"
+                    },
+                    {
+                        "name": "Xã Phương Thịnh"
+                    },
+                    {
+                        "name": "Xã Ba Sao"
+                    },
+                    {
+                        "name": "Xã Phong Mỹ"
+                    },
+                    {
+                        "name": "Xã Tân Nghĩa"
+                    },
+                    {
+                        "name": "Xã Phương Trà"
+                    },
+                    {
+                        "name": "Xã Nhị Mỹ"
+                    },
+                    {
+                        "name": "Xã Mỹ Thọ"
+                    },
+                    {
+                        "name": "Xã Tân Hội Trung"
+                    },
+                    {
+                        "name": "Xã An Bình"
+                    },
+                    {
+                        "name": "Xã Mỹ Hội"
+                    },
+                    {
+                        "name": "Xã Mỹ Hiệp"
+                    },
+                    {
+                        "name": "Xã Mỹ Long"
+                    },
+                    {
+                        "name": "Xã Bình Hàng Trung"
+                    },
+                    {
+                        "name": "Xã Mỹ Xương"
+                    },
+                    {
+                        "name": "Xã Bình Hàng Tây"
+                    },
+                    {
+                        "name": "Xã Bình Thạnh"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Thanh Bình",
+                "wards": [
+                    {
+                        "name": "Thị trấn Thanh Bình"
+                    },
+                    {
+                        "name": "Xã Tân Quới"
+                    },
+                    {
+                        "name": "Xã Tân Hòa"
+                    },
+                    {
+                        "name": "Xã An Phong"
+                    },
+                    {
+                        "name": "Xã Phú Lợi"
+                    },
+                    {
+                        "name": "Xã Tân Mỹ"
+                    },
+                    {
+                        "name": "Xã Bình Tấn"
+                    },
+                    {
+                        "name": "Xã Tân Huề"
+                    },
+                    {
+                        "name": "Xã Tân Bình"
+                    },
+                    {
+                        "name": "Xã Tân Thạnh"
+                    },
+                    {
+                        "name": "Xã Tân Phú"
+                    },
+                    {
+                        "name": "Xã Bình Thành"
+                    },
+                    {
+                        "name": "Xã Tân Long"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Lấp Vò",
+                "wards": [
+                    {
+                        "name": "Thị trấn Lấp Vò"
+                    },
+                    {
+                        "name": "Xã Mỹ An Hưng A"
+                    },
+                    {
+                        "name": "Xã Tân Mỹ"
+                    },
+                    {
+                        "name": "Xã Mỹ An Hưng B"
+                    },
+                    {
+                        "name": "Xã Tân  Khánh Trung"
+                    },
+                    {
+                        "name": "Xã Long Hưng A"
+                    },
+                    {
+                        "name": "Xã Vĩnh Thạnh"
+                    },
+                    {
+                        "name": "Xã Long Hưng B"
+                    },
+                    {
+                        "name": "Xã Bình Thành"
+                    },
+                    {
+                        "name": "Xã Định An"
+                    },
+                    {
+                        "name": "Xã Định Yên"
+                    },
+                    {
+                        "name": "Xã Hội An Đông"
+                    },
+                    {
+                        "name": "Xã Bình Thạnh Trung"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Lai Vung",
+                "wards": [
+                    {
+                        "name": "Thị trấn Lai Vung"
+                    },
+                    {
+                        "name": "Xã Tân Dương"
+                    },
+                    {
+                        "name": "Xã Hòa Thành"
+                    },
+                    {
+                        "name": "Xã Long Hậu"
+                    },
+                    {
+                        "name": "Xã Tân Phước"
+                    },
+                    {
+                        "name": "Xã Hòa Long"
+                    },
+                    {
+                        "name": "Xã Tân Thành"
+                    },
+                    {
+                        "name": "Xã Long Thắng"
+                    },
+                    {
+                        "name": "Xã Vĩnh Thới"
+                    },
+                    {
+                        "name": "Xã Tân Hòa"
+                    },
+                    {
+                        "name": "Xã Định Hòa"
+                    },
+                    {
+                        "name": "Xã Phong Hòa"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Châu Thành",
+                "wards": [
+                    {
+                        "name": "Thị trấn Cái Tàu Hạ"
+                    },
+                    {
+                        "name": "Xã An Hiệp"
+                    },
+                    {
+                        "name": "Xã An Nhơn"
+                    },
+                    {
+                        "name": "Xã Tân Nhuận Đông"
+                    },
+                    {
+                        "name": "Xã Tân Bình"
+                    },
+                    {
+                        "name": "Xã Tân Phú Trung"
+                    },
+                    {
+                        "name": "Xã Phú Long"
+                    },
+                    {
+                        "name": "Xã An Phú Thuận"
+                    },
+                    {
+                        "name": "Xã Phú Hựu"
+                    },
+                    {
+                        "name": "Xã An Khánh"
+                    },
+                    {
+                        "name": "Xã Tân Phú"
+                    },
+                    {
+                        "name": "Xã Hòa Tân"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Tỉnh An Giang",
+        "districts": [
+            {
+                "name": "Thành phố Long Xuyên",
+                "wards": [
+                    {
+                        "name": "Phường Mỹ Bình"
+                    },
+                    {
+                        "name": "Phường Mỹ Long"
+                    },
+                    {
+                        "name": "Phường Đông Xuyên"
+                    },
+                    {
+                        "name": "Phường Mỹ Xuyên"
+                    },
+                    {
+                        "name": "Phường Bình Đức"
+                    },
+                    {
+                        "name": "Phường Bình Khánh"
+                    },
+                    {
+                        "name": "Phường Mỹ Phước"
+                    },
+                    {
+                        "name": "Phường Mỹ Quý"
+                    },
+                    {
+                        "name": "Phường Mỹ Thới"
+                    },
+                    {
+                        "name": "Phường Mỹ Thạnh"
+                    },
+                    {
+                        "name": "Phường Mỹ Hòa"
+                    },
+                    {
+                        "name": "Xã Mỹ Khánh"
+                    },
+                    {
+                        "name": "Xã Mỹ Hoà Hưng"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Châu Đốc",
+                "wards": [
+                    {
+                        "name": "Phường Châu Phú B"
+                    },
+                    {
+                        "name": "Phường Châu Phú A"
+                    },
+                    {
+                        "name": "Phường Vĩnh Mỹ"
+                    },
+                    {
+                        "name": "Phường Núi Sam"
+                    },
+                    {
+                        "name": "Phường Vĩnh Ngươn"
+                    },
+                    {
+                        "name": "Xã Vĩnh Tế"
+                    },
+                    {
+                        "name": "Xã Vĩnh Châu"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện An Phú",
+                "wards": [
+                    {
+                        "name": "Thị trấn An Phú"
+                    },
+                    {
+                        "name": "Xã Khánh An"
+                    },
+                    {
+                        "name": "Thị Trấn Long Bình"
+                    },
+                    {
+                        "name": "Xã Khánh Bình"
+                    },
+                    {
+                        "name": "Xã Quốc Thái"
+                    },
+                    {
+                        "name": "Xã Nhơn Hội"
+                    },
+                    {
+                        "name": "Xã Phú Hữu"
+                    },
+                    {
+                        "name": "Xã Phú Hội"
+                    },
+                    {
+                        "name": "Xã Phước Hưng"
+                    },
+                    {
+                        "name": "Xã Vĩnh Lộc"
+                    },
+                    {
+                        "name": "Xã Vĩnh Hậu"
+                    },
+                    {
+                        "name": "Xã Vĩnh Trường"
+                    },
+                    {
+                        "name": "Xã Vĩnh Hội Đông"
+                    },
+                    {
+                        "name": "Xã Đa Phước"
+                    }
+                ]
+            },
+            {
+                "name": "Thị xã Tân Châu",
+                "wards": [
+                    {
+                        "name": "Phường Long Thạnh"
+                    },
+                    {
+                        "name": "Phường Long Hưng"
+                    },
+                    {
+                        "name": "Phường Long Châu"
+                    },
+                    {
+                        "name": "Xã Phú Lộc"
+                    },
+                    {
+                        "name": "Xã Vĩnh Xương"
+                    },
+                    {
+                        "name": "Xã Vĩnh Hòa"
+                    },
+                    {
+                        "name": "Xã Tân Thạnh"
+                    },
+                    {
+                        "name": "Xã Tân An"
+                    },
+                    {
+                        "name": "Xã Long An"
+                    },
+                    {
+                        "name": "Phường Long Phú"
+                    },
+                    {
+                        "name": "Xã Châu Phong"
+                    },
+                    {
+                        "name": "Xã Phú Vĩnh"
+                    },
+                    {
+                        "name": "Xã Lê Chánh"
+                    },
+                    {
+                        "name": "Phường Long Sơn"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Phú Tân",
+                "wards": [
+                    {
+                        "name": "Thị trấn Phú Mỹ"
+                    },
+                    {
+                        "name": "Thị trấn Chợ Vàm"
+                    },
+                    {
+                        "name": "Xã Long Hoà"
+                    },
+                    {
+                        "name": "Xã Phú Long"
+                    },
+                    {
+                        "name": "Xã Phú Lâm"
+                    },
+                    {
+                        "name": "Xã Phú Hiệp"
+                    },
+                    {
+                        "name": "Xã Phú Thạnh"
+                    },
+                    {
+                        "name": "Xã Hoà Lạc"
+                    },
+                    {
+                        "name": "Xã Phú Thành"
+                    },
+                    {
+                        "name": "Xã Phú An"
+                    },
+                    {
+                        "name": "Xã Phú Xuân"
+                    },
+                    {
+                        "name": "Xã Hiệp Xương"
+                    },
+                    {
+                        "name": "Xã Phú Bình"
+                    },
+                    {
+                        "name": "Xã Phú Thọ"
+                    },
+                    {
+                        "name": "Xã Phú Hưng"
+                    },
+                    {
+                        "name": "Xã Bình Thạnh Đông"
+                    },
+                    {
+                        "name": "Xã Tân Hòa"
+                    },
+                    {
+                        "name": "Xã Tân Trung"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Châu Phú",
+                "wards": [
+                    {
+                        "name": "Thị trấn Cái Dầu"
+                    },
+                    {
+                        "name": "Xã Khánh Hòa"
+                    },
+                    {
+                        "name": "Xã Mỹ Đức"
+                    },
+                    {
+                        "name": "Xã Mỹ Phú"
+                    },
+                    {
+                        "name": "Xã Ô Long Vỹ"
+                    },
+                    {
+                        "name": "Thị trấn Vĩnh Thạnh Trung"
+                    },
+                    {
+                        "name": "Xã Thạnh Mỹ Tây"
+                    },
+                    {
+                        "name": "Xã Bình Long"
+                    },
+                    {
+                        "name": "Xã Bình Mỹ"
+                    },
+                    {
+                        "name": "Xã Bình Thủy"
+                    },
+                    {
+                        "name": "Xã Đào Hữu Cảnh"
+                    },
+                    {
+                        "name": "Xã Bình Phú"
+                    },
+                    {
+                        "name": "Xã Bình Chánh"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Tịnh Biên",
+                "wards": [
+                    {
+                        "name": "Thị trấn Nhà Bàng"
+                    },
+                    {
+                        "name": "Thị trấn Chi Lăng"
+                    },
+                    {
+                        "name": "Xã Núi Voi"
+                    },
+                    {
+                        "name": "Xã Nhơn Hưng"
+                    },
+                    {
+                        "name": "Xã An Phú"
+                    },
+                    {
+                        "name": "Xã Thới Sơn"
+                    },
+                    {
+                        "name": "Thị trấn Tịnh Biên"
+                    },
+                    {
+                        "name": "Xã Văn Giáo"
+                    },
+                    {
+                        "name": "Xã An Cư"
+                    },
+                    {
+                        "name": "Xã An Nông"
+                    },
+                    {
+                        "name": "Xã Vĩnh Trung"
+                    },
+                    {
+                        "name": "Xã Tân Lợi"
+                    },
+                    {
+                        "name": "Xã An Hảo"
+                    },
+                    {
+                        "name": "Xã Tân Lập"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Tri Tôn",
+                "wards": [
+                    {
+                        "name": "Thị trấn Tri Tôn"
+                    },
+                    {
+                        "name": "Thị trấn Ba Chúc"
+                    },
+                    {
+                        "name": "Xã Lạc Quới"
+                    },
+                    {
+                        "name": "Xã Lê Trì"
+                    },
+                    {
+                        "name": "Xã Vĩnh Gia"
+                    },
+                    {
+                        "name": "Xã Vĩnh Phước"
+                    },
+                    {
+                        "name": "Xã Châu Lăng"
+                    },
+                    {
+                        "name": "Xã Lương Phi"
+                    },
+                    {
+                        "name": "Xã Lương An Trà"
+                    },
+                    {
+                        "name": "Xã Tà Đảnh"
+                    },
+                    {
+                        "name": "Xã Núi Tô"
+                    },
+                    {
+                        "name": "Xã An Tức"
+                    },
+                    {
+                        "name": "Thị trấn Cô Tô"
+                    },
+                    {
+                        "name": "Xã Tân Tuyến"
+                    },
+                    {
+                        "name": "Xã Ô Lâm"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Châu Thành",
+                "wards": [
+                    {
+                        "name": "Thị trấn An Châu"
+                    },
+                    {
+                        "name": "Xã An Hòa"
+                    },
+                    {
+                        "name": "Xã Cần Đăng"
+                    },
+                    {
+                        "name": "Xã Vĩnh Hanh"
+                    },
+                    {
+                        "name": "Xã Bình Thạnh"
+                    },
+                    {
+                        "name": "Thị trấn Vĩnh Bình"
+                    },
+                    {
+                        "name": "Xã Bình Hòa"
+                    },
+                    {
+                        "name": "Xã Vĩnh An"
+                    },
+                    {
+                        "name": "Xã Hòa Bình Thạnh"
+                    },
+                    {
+                        "name": "Xã Vĩnh Lợi"
+                    },
+                    {
+                        "name": "Xã Vĩnh Nhuận"
+                    },
+                    {
+                        "name": "Xã Tân Phú"
+                    },
+                    {
+                        "name": "Xã Vĩnh Thành"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Chợ Mới",
+                "wards": [
+                    {
+                        "name": "Thị trấn Chợ Mới"
+                    },
+                    {
+                        "name": "Thị trấn Mỹ Luông"
+                    },
+                    {
+                        "name": "Xã Kiến An"
+                    },
+                    {
+                        "name": "Xã Mỹ Hội Đông"
+                    },
+                    {
+                        "name": "Xã Long Điền A"
+                    },
+                    {
+                        "name": "Xã Tấn Mỹ"
+                    },
+                    {
+                        "name": "Xã Long Điền B"
+                    },
+                    {
+                        "name": "Xã Kiến Thành"
+                    },
+                    {
+                        "name": "Xã Mỹ Hiệp"
+                    },
+                    {
+                        "name": "Xã Mỹ An"
+                    },
+                    {
+                        "name": "Xã Nhơn Mỹ"
+                    },
+                    {
+                        "name": "Xã Long Giang"
+                    },
+                    {
+                        "name": "Xã Long Kiến"
+                    },
+                    {
+                        "name": "Xã Bình Phước Xuân"
+                    },
+                    {
+                        "name": "Xã An Thạnh Trung"
+                    },
+                    {
+                        "name": "Xã Hội An"
+                    },
+                    {
+                        "name": "Xã Hòa Bình"
+                    },
+                    {
+                        "name": "Xã Hòa An"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Thoại Sơn",
+                "wards": [
+                    {
+                        "name": "Thị trấn Núi Sập"
+                    },
+                    {
+                        "name": "Thị trấn Phú Hoà"
+                    },
+                    {
+                        "name": "Thị Trấn Óc Eo"
+                    },
+                    {
+                        "name": "Xã Tây Phú"
+                    },
+                    {
+                        "name": "Xã An Bình"
+                    },
+                    {
+                        "name": "Xã Vĩnh Phú"
+                    },
+                    {
+                        "name": "Xã Vĩnh Trạch"
+                    },
+                    {
+                        "name": "Xã Phú Thuận"
+                    },
+                    {
+                        "name": "Xã Vĩnh Chánh"
+                    },
+                    {
+                        "name": "Xã Định Mỹ"
+                    },
+                    {
+                        "name": "Xã Định Thành"
+                    },
+                    {
+                        "name": "Xã Mỹ Phú Đông"
+                    },
+                    {
+                        "name": "Xã Vọng Đông"
+                    },
+                    {
+                        "name": "Xã Vĩnh Khánh"
+                    },
+                    {
+                        "name": "Xã Thoại Giang"
+                    },
+                    {
+                        "name": "Xã Bình Thành"
+                    },
+                    {
+                        "name": "Xã Vọng Thê"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Tỉnh Kiên Giang",
+        "districts": [
+            {
+                "name": "Thành phố Rạch Giá",
+                "wards": [
+                    {
+                        "name": "Phường Vĩnh Thanh Vân"
+                    },
+                    {
+                        "name": "Phường Vĩnh Thanh"
+                    },
+                    {
+                        "name": "Phường Vĩnh Quang"
+                    },
+                    {
+                        "name": "Phường Vĩnh Hiệp"
+                    },
+                    {
+                        "name": "Phường Vĩnh Bảo"
+                    },
+                    {
+                        "name": "Phường Vĩnh Lạc"
+                    },
+                    {
+                        "name": "Phường An Hòa"
+                    },
+                    {
+                        "name": "Phường An Bình"
+                    },
+                    {
+                        "name": "Phường Rạch Sỏi"
+                    },
+                    {
+                        "name": "Phường Vĩnh Lợi"
+                    },
+                    {
+                        "name": "Phường Vĩnh Thông"
+                    },
+                    {
+                        "name": "Xã Phi Thông"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Hà Tiên",
+                "wards": [
+                    {
+                        "name": "Phường Tô Châu"
+                    },
+                    {
+                        "name": "Phường Đông Hồ"
+                    },
+                    {
+                        "name": "Phường Bình San"
+                    },
+                    {
+                        "name": "Phường Pháo Đài"
+                    },
+                    {
+                        "name": "Phường Mỹ Đức"
+                    },
+                    {
+                        "name": "Xã Tiên Hải"
+                    },
+                    {
+                        "name": "Xã Thuận Yên"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Kiên Lương",
+                "wards": [
+                    {
+                        "name": "Thị trấn Kiên Lương"
+                    },
+                    {
+                        "name": "Xã Kiên Bình"
+                    },
+                    {
+                        "name": "Xã Hòa Điền"
+                    },
+                    {
+                        "name": "Xã Dương Hòa"
+                    },
+                    {
+                        "name": "Xã Bình An"
+                    },
+                    {
+                        "name": "Xã Bình Trị"
+                    },
+                    {
+                        "name": "Xã Sơn Hải"
+                    },
+                    {
+                        "name": "Xã Hòn Nghệ"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Hòn Đất",
+                "wards": [
+                    {
+                        "name": "Thị trấn Hòn Đất"
+                    },
+                    {
+                        "name": "Thị trấn Sóc Sơn"
+                    },
+                    {
+                        "name": "Xã Bình Sơn"
+                    },
+                    {
+                        "name": "Xã Bình Giang"
+                    },
+                    {
+                        "name": "Xã Mỹ Thái"
+                    },
+                    {
+                        "name": "Xã Nam Thái Sơn"
+                    },
+                    {
+                        "name": "Xã Mỹ Hiệp Sơn"
+                    },
+                    {
+                        "name": "Xã Sơn Kiên"
+                    },
+                    {
+                        "name": "Xã Sơn Bình"
+                    },
+                    {
+                        "name": "Xã Mỹ Thuận"
+                    },
+                    {
+                        "name": "Xã Lình Huỳnh"
+                    },
+                    {
+                        "name": "Xã Thổ Sơn"
+                    },
+                    {
+                        "name": "Xã Mỹ Lâm"
+                    },
+                    {
+                        "name": "Xã Mỹ Phước"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Tân Hiệp",
+                "wards": [
+                    {
+                        "name": "Thị trấn Tân Hiệp"
+                    },
+                    {
+                        "name": "Xã Tân Hội"
+                    },
+                    {
+                        "name": "Xã Tân Thành"
+                    },
+                    {
+                        "name": "Xã Tân Hiệp B"
+                    },
+                    {
+                        "name": "Xã Tân Hoà"
+                    },
+                    {
+                        "name": "Xã Thạnh Đông B"
+                    },
+                    {
+                        "name": "Xã Thạnh Đông"
+                    },
+                    {
+                        "name": "Xã Tân Hiệp A"
+                    },
+                    {
+                        "name": "Xã Tân An"
+                    },
+                    {
+                        "name": "Xã Thạnh Đông A"
+                    },
+                    {
+                        "name": "Xã Thạnh Trị"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Châu Thành",
+                "wards": [
+                    {
+                        "name": "Thị trấn Minh Lương"
+                    },
+                    {
+                        "name": "Xã Mong Thọ A"
+                    },
+                    {
+                        "name": "Xã Mong Thọ B"
+                    },
+                    {
+                        "name": "Xã Mong Thọ"
+                    },
+                    {
+                        "name": "Xã Giục Tượng"
+                    },
+                    {
+                        "name": "Xã Vĩnh Hòa Hiệp"
+                    },
+                    {
+                        "name": "Xã Vĩnh Hoà Phú"
+                    },
+                    {
+                        "name": "Xã Minh Hòa"
+                    },
+                    {
+                        "name": "Xã Bình An"
+                    },
+                    {
+                        "name": "Xã Thạnh Lộc"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Giồng Riềng",
+                "wards": [
+                    {
+                        "name": "Thị Trấn Giồng Riềng"
+                    },
+                    {
+                        "name": "Xã Thạnh Hưng"
+                    },
+                    {
+                        "name": "Xã Thạnh Phước"
+                    },
+                    {
+                        "name": "Xã Thạnh Lộc"
+                    },
+                    {
+                        "name": "Xã Thạnh Hòa"
+                    },
+                    {
+                        "name": "Xã Thạnh Bình"
+                    },
+                    {
+                        "name": "Xã Bàn Thạch"
+                    },
+                    {
+                        "name": "Xã Bàn Tân Định"
+                    },
+                    {
+                        "name": "Xã Ngọc Thành"
+                    },
+                    {
+                        "name": "Xã Ngọc Chúc"
+                    },
+                    {
+                        "name": "Xã Ngọc Thuận"
+                    },
+                    {
+                        "name": "Xã Hòa Hưng"
+                    },
+                    {
+                        "name": "Xã Hoà Lợi"
+                    },
+                    {
+                        "name": "Xã Hoà An"
+                    },
+                    {
+                        "name": "Xã Long Thạnh"
+                    },
+                    {
+                        "name": "Xã Vĩnh Thạnh"
+                    },
+                    {
+                        "name": "Xã Vĩnh Phú"
+                    },
+                    {
+                        "name": "Xã  Hòa Thuận"
+                    },
+                    {
+                        "name": "Xã Ngọc Hoà"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Gò Quao",
+                "wards": [
+                    {
+                        "name": "Thị trấn Gò Quao"
+                    },
+                    {
+                        "name": "Xã Vĩnh Hòa Hưng Bắc"
+                    },
+                    {
+                        "name": "Xã Định Hòa"
+                    },
+                    {
+                        "name": "Xã Thới Quản"
+                    },
+                    {
+                        "name": "Xã Định An"
+                    },
+                    {
+                        "name": "Xã Thủy Liễu"
+                    },
+                    {
+                        "name": "Xã Vĩnh Hòa Hưng Nam"
+                    },
+                    {
+                        "name": "Xã Vĩnh Phước A"
+                    },
+                    {
+                        "name": "Xã Vĩnh Phước B"
+                    },
+                    {
+                        "name": "Xã Vĩnh Tuy"
+                    },
+                    {
+                        "name": "Xã Vĩnh Thắng"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện An Biên",
+                "wards": [
+                    {
+                        "name": "Thị trấn Thứ Ba"
+                    },
+                    {
+                        "name": "Xã Tây Yên"
+                    },
+                    {
+                        "name": "Xã Tây Yên A"
+                    },
+                    {
+                        "name": "Xã Nam Yên"
+                    },
+                    {
+                        "name": "Xã Hưng Yên"
+                    },
+                    {
+                        "name": "Xã Nam Thái"
+                    },
+                    {
+                        "name": "Xã Nam Thái A"
+                    },
+                    {
+                        "name": "Xã Đông Thái"
+                    },
+                    {
+                        "name": "Xã Đông Yên"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện An Minh",
+                "wards": [
+                    {
+                        "name": "Thị trấn Thứ Mười Một"
+                    },
+                    {
+                        "name": "Xã Thuận Hoà"
+                    },
+                    {
+                        "name": "Xã Đông Hòa"
+                    },
+                    {
+                        "name": "Xã Đông Thạnh"
+                    },
+                    {
+                        "name": "Xã Tân Thạnh"
+                    },
+                    {
+                        "name": "Xã Đông Hưng"
+                    },
+                    {
+                        "name": "Xã Đông Hưng A"
+                    },
+                    {
+                        "name": "Xã Đông Hưng B"
+                    },
+                    {
+                        "name": "Xã Vân Khánh"
+                    },
+                    {
+                        "name": "Xã Vân Khánh Đông"
+                    },
+                    {
+                        "name": "Xã Vân Khánh Tây"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Vĩnh Thuận",
+                "wards": [
+                    {
+                        "name": "Thị trấn Vĩnh Thuận"
+                    },
+                    {
+                        "name": "Xã Vĩnh Bình Bắc"
+                    },
+                    {
+                        "name": "Xã Vĩnh Bình Nam"
+                    },
+                    {
+                        "name": "Xã Bình Minh"
+                    },
+                    {
+                        "name": "Xã Vĩnh Thuận"
+                    },
+                    {
+                        "name": "Xã Tân Thuận"
+                    },
+                    {
+                        "name": "Xã Phong Đông"
+                    },
+                    {
+                        "name": "Xã Vĩnh Phong"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Phú Quốc",
+                "wards": [
+                    {
+                        "name": "Phường Dương Đông"
+                    },
+                    {
+                        "name": "Phường An Thới"
+                    },
+                    {
+                        "name": "Xã Cửa Cạn"
+                    },
+                    {
+                        "name": "Xã Gành Dầu"
+                    },
+                    {
+                        "name": "Xã Cửa Dương"
+                    },
+                    {
+                        "name": "Xã Hàm Ninh"
+                    },
+                    {
+                        "name": "Xã Dương Tơ"
+                    },
+                    {
+                        "name": "Xã Bãi Thơm"
+                    },
+                    {
+                        "name": "Xã Thổ Châu"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Kiên Hải",
+                "wards": [
+                    {
+                        "name": "Xã Hòn Tre"
+                    },
+                    {
+                        "name": "Xã Lại Sơn"
+                    },
+                    {
+                        "name": "Xã An Sơn"
+                    },
+                    {
+                        "name": "Xã Nam Du"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện U Minh Thượng",
+                "wards": [
+                    {
+                        "name": "Xã Thạnh Yên"
+                    },
+                    {
+                        "name": "Xã Thạnh Yên A"
+                    },
+                    {
+                        "name": "Xã An Minh Bắc"
+                    },
+                    {
+                        "name": "Xã Vĩnh Hòa"
+                    },
+                    {
+                        "name": "Xã Hoà Chánh"
+                    },
+                    {
+                        "name": "Xã Minh Thuận"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Giang Thành",
+                "wards": [
+                    {
+                        "name": "Xã Vĩnh Phú"
+                    },
+                    {
+                        "name": "Xã Vĩnh Điều"
+                    },
+                    {
+                        "name": "Xã Tân Khánh Hòa"
+                    },
+                    {
+                        "name": "Xã Phú Lợi"
+                    },
+                    {
+                        "name": "Xã Phú Mỹ"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Thành phố Cần Thơ",
+        "districts": [
+            {
+                "name": "Quận Ninh Kiều",
+                "wards": [
+                    {
+                        "name": "Phường Cái Khế"
+                    },
+                    {
+                        "name": "Phường An Hòa"
+                    },
+                    {
+                        "name": "Phường Thới Bình"
+                    },
+                    {
+                        "name": "Phường An Nghiệp"
+                    },
+                    {
+                        "name": "Phường An Cư"
+                    },
+                    {
+                        "name": "Phường Tân An"
+                    },
+                    {
+                        "name": "Phường An Phú"
+                    },
+                    {
+                        "name": "Phường Xuân Khánh"
+                    },
+                    {
+                        "name": "Phường Hưng Lợi"
+                    },
+                    {
+                        "name": "Phường An Khánh"
+                    },
+                    {
+                        "name": "Phường An Bình"
+                    }
+                ]
+            },
+            {
+                "name": "Quận Ô Môn",
+                "wards": [
+                    {
+                        "name": "Phường Châu Văn Liêm"
+                    },
+                    {
+                        "name": "Phường Thới Hòa"
+                    },
+                    {
+                        "name": "Phường Thới Long"
+                    },
+                    {
+                        "name": "Phường Long Hưng"
+                    },
+                    {
+                        "name": "Phường Thới An"
+                    },
+                    {
+                        "name": "Phường Phước Thới"
+                    },
+                    {
+                        "name": "Phường Trường Lạc"
+                    }
+                ]
+            },
+            {
+                "name": "Quận Bình Thuỷ",
+                "wards": [
+                    {
+                        "name": "Phường Bình Thủy"
+                    },
+                    {
+                        "name": "Phường Trà An"
+                    },
+                    {
+                        "name": "Phường Trà Nóc"
+                    },
+                    {
+                        "name": "Phường Thới An Đông"
+                    },
+                    {
+                        "name": "Phường An Thới"
+                    },
+                    {
+                        "name": "Phường Bùi Hữu Nghĩa"
+                    },
+                    {
+                        "name": "Phường Long Hòa"
+                    },
+                    {
+                        "name": "Phường Long Tuyền"
+                    }
+                ]
+            },
+            {
+                "name": "Quận Cái Răng",
+                "wards": [
+                    {
+                        "name": "Phường Lê Bình"
+                    },
+                    {
+                        "name": "Phường Hưng Phú"
+                    },
+                    {
+                        "name": "Phường Hưng Thạnh"
+                    },
+                    {
+                        "name": "Phường Ba Láng"
+                    },
+                    {
+                        "name": "Phường Thường Thạnh"
+                    },
+                    {
+                        "name": "Phường Phú Thứ"
+                    },
+                    {
+                        "name": "Phường Tân Phú"
+                    }
+                ]
+            },
+            {
+                "name": "Quận Thốt Nốt",
+                "wards": [
+                    {
+                        "name": "Phường Thốt Nốt"
+                    },
+                    {
+                        "name": "Phường Thới Thuận"
+                    },
+                    {
+                        "name": "Phường Thuận An"
+                    },
+                    {
+                        "name": "Phường Tân Lộc"
+                    },
+                    {
+                        "name": "Phường Trung Nhứt"
+                    },
+                    {
+                        "name": "Phường Thạnh Hoà"
+                    },
+                    {
+                        "name": "Phường Trung Kiên"
+                    },
+                    {
+                        "name": "Phường Tân Hưng"
+                    },
+                    {
+                        "name": "Phường Thuận Hưng"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Vĩnh Thạnh",
+                "wards": [
+                    {
+                        "name": "Xã Vĩnh Bình"
+                    },
+                    {
+                        "name": "Thị trấn Thanh An"
+                    },
+                    {
+                        "name": "Thị trấn Vĩnh Thạnh"
+                    },
+                    {
+                        "name": "Xã Thạnh Mỹ"
+                    },
+                    {
+                        "name": "Xã Vĩnh Trinh"
+                    },
+                    {
+                        "name": "Xã Thạnh An"
+                    },
+                    {
+                        "name": "Xã Thạnh Tiến"
+                    },
+                    {
+                        "name": "Xã Thạnh Thắng"
+                    },
+                    {
+                        "name": "Xã Thạnh Lợi"
+                    },
+                    {
+                        "name": "Xã Thạnh Qưới"
+                    },
+                    {
+                        "name": "Xã Thạnh Lộc"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Cờ Đỏ",
+                "wards": [
+                    {
+                        "name": "Xã Trung An"
+                    },
+                    {
+                        "name": "Xã Trung Thạnh"
+                    },
+                    {
+                        "name": "Xã Thạnh Phú"
+                    },
+                    {
+                        "name": "Xã Trung Hưng"
+                    },
+                    {
+                        "name": "Thị trấn Cờ Đỏ"
+                    },
+                    {
+                        "name": "Xã Thới Hưng"
+                    },
+                    {
+                        "name": "Xã Đông Hiệp"
+                    },
+                    {
+                        "name": "Xã Đông Thắng"
+                    },
+                    {
+                        "name": "Xã Thới Đông"
+                    },
+                    {
+                        "name": "Xã Thới Xuân"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Phong Điền",
+                "wards": [
+                    {
+                        "name": "Thị trấn Phong Điền"
+                    },
+                    {
+                        "name": "Xã Nhơn Ái"
+                    },
+                    {
+                        "name": "Xã Giai Xuân"
+                    },
+                    {
+                        "name": "Xã Tân Thới"
+                    },
+                    {
+                        "name": "Xã Trường Long"
+                    },
+                    {
+                        "name": "Xã Mỹ Khánh"
+                    },
+                    {
+                        "name": "Xã Nhơn Nghĩa"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Thới Lai",
+                "wards": [
+                    {
+                        "name": "Thị trấn Thới Lai"
+                    },
+                    {
+                        "name": "Xã Thới Thạnh"
+                    },
+                    {
+                        "name": "Xã Tân Thạnh"
+                    },
+                    {
+                        "name": "Xã Xuân Thắng"
+                    },
+                    {
+                        "name": "Xã Đông Bình"
+                    },
+                    {
+                        "name": "Xã Đông Thuận"
+                    },
+                    {
+                        "name": "Xã Thới Tân"
+                    },
+                    {
+                        "name": "Xã Trường Thắng"
+                    },
+                    {
+                        "name": "Xã Định Môn"
+                    },
+                    {
+                        "name": "Xã Trường Thành"
+                    },
+                    {
+                        "name": "Xã Trường Xuân"
+                    },
+                    {
+                        "name": "Xã Trường Xuân A"
+                    },
+                    {
+                        "name": "Xã Trường Xuân B"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Tỉnh Hậu Giang",
+        "districts": [
+            {
+                "name": "Thành phố Vị Thanh",
+                "wards": [
+                    {
+                        "name": "Phường I"
+                    },
+                    {
+                        "name": "Phường III"
+                    },
+                    {
+                        "name": "Phường IV"
+                    },
+                    {
+                        "name": "Phường V"
+                    },
+                    {
+                        "name": "Phường VII"
+                    },
+                    {
+                        "name": "Xã Vị Tân"
+                    },
+                    {
+                        "name": "Xã Hoả Lựu"
+                    },
+                    {
+                        "name": "Xã Tân Tiến"
+                    },
+                    {
+                        "name": "Xã Hoả Tiến"
+                    }
+                ]
+            },
+            {
+                "name": "Thành phố Ngã Bảy",
+                "wards": [
+                    {
+                        "name": "Phường Ngã Bảy"
+                    },
+                    {
+                        "name": "Phường Lái Hiếu"
+                    },
+                    {
+                        "name": "Phường Hiệp Thành"
+                    },
+                    {
+                        "name": "Phường Hiệp Lợi"
+                    },
+                    {
+                        "name": "Xã Đại Thành"
+                    },
+                    {
+                        "name": "Xã Tân Thành"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Châu Thành A",
+                "wards": [
+                    {
+                        "name": "Thị trấn Một Ngàn"
+                    },
+                    {
+                        "name": "Xã Tân Hoà"
+                    },
+                    {
+                        "name": "Thị trấn Bảy Ngàn"
+                    },
+                    {
+                        "name": "Xã Trường Long Tây"
+                    },
+                    {
+                        "name": "Xã Trường Long A"
+                    },
+                    {
+                        "name": "Xã Nhơn Nghĩa A"
+                    },
+                    {
+                        "name": "Thị trấn Rạch Gòi"
+                    },
+                    {
+                        "name": "Xã Thạnh Xuân"
+                    },
+                    {
+                        "name": "Thị trấn Cái Tắc"
+                    },
+                    {
+                        "name": "Xã Tân Phú Thạnh"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Châu Thành",
+                "wards": [
+                    {
+                        "name": "Thị Trấn Ngã Sáu"
+                    },
+                    {
+                        "name": "Xã Đông Thạnh"
+                    },
+                    {
+                        "name": "Xã Đông Phú"
+                    },
+                    {
+                        "name": "Xã Phú Hữu"
+                    },
+                    {
+                        "name": "Xã Phú Tân"
+                    },
+                    {
+                        "name": "Thị trấn Mái Dầm"
+                    },
+                    {
+                        "name": "Xã Đông Phước"
+                    },
+                    {
+                        "name": "Xã Đông Phước A"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Phụng Hiệp",
+                "wards": [
+                    {
+                        "name": "Thị trấn Kinh Cùng"
+                    },
+                    {
+                        "name": "Thị trấn Cây Dương"
+                    },
+                    {
+                        "name": "Xã Tân Bình"
+                    },
+                    {
+                        "name": "Xã Bình Thành"
+                    },
+                    {
+                        "name": "Xã Thạnh Hòa"
+                    },
+                    {
+                        "name": "Xã Long Thạnh"
+                    },
+                    {
+                        "name": "Xã Phụng Hiệp"
+                    },
+                    {
+                        "name": "Xã Hòa Mỹ"
+                    },
+                    {
+                        "name": "Xã Hòa An"
+                    },
+                    {
+                        "name": "Xã Phương Bình"
+                    },
+                    {
+                        "name": "Xã Hiệp Hưng"
+                    },
+                    {
+                        "name": "Xã Tân Phước Hưng"
+                    },
+                    {
+                        "name": "Thị trấn Búng Tàu"
+                    },
+                    {
+                        "name": "Xã Phương Phú"
+                    },
+                    {
+                        "name": "Xã Tân Long"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Vị Thuỷ",
+                "wards": [
+                    {
+                        "name": "Thị trấn Nàng Mau"
+                    },
+                    {
+                        "name": "Xã Vị Trung"
+                    },
+                    {
+                        "name": "Xã Vị Thuỷ"
+                    },
+                    {
+                        "name": "Xã Vị Thắng"
+                    },
+                    {
+                        "name": "Xã Vĩnh Thuận Tây"
+                    },
+                    {
+                        "name": "Xã Vĩnh Trung"
+                    },
+                    {
+                        "name": "Xã Vĩnh Tường"
+                    },
+                    {
+                        "name": "Xã Vị Đông"
+                    },
+                    {
+                        "name": "Xã Vị Thanh"
+                    },
+                    {
+                        "name": "Xã Vị Bình"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Long Mỹ",
+                "wards": [
+                    {
+                        "name": "Xã Thuận Hưng"
+                    },
+                    {
+                        "name": "Xã Thuận Hòa"
+                    },
+                    {
+                        "name": "Xã Vĩnh Thuận Đông"
+                    },
+                    {
+                        "name": "Thị trấn Vĩnh Viễn"
+                    },
+                    {
+                        "name": "Xã Vĩnh Viễn A"
+                    },
+                    {
+                        "name": "Xã Lương Tâm"
+                    },
+                    {
+                        "name": "Xã Lương Nghĩa"
+                    },
+                    {
+                        "name": "Xã Xà Phiên"
+                    }
+                ]
+            },
+            {
+                "name": "Thị xã Long Mỹ",
+                "wards": [
+                    {
+                        "name": "Phường Thuận An"
+                    },
+                    {
+                        "name": "Phường Trà Lồng"
+                    },
+                    {
+                        "name": "Phường Bình Thạnh"
+                    },
+                    {
+                        "name": "Xã Long Bình"
+                    },
+                    {
+                        "name": "Phường Vĩnh Tường"
+                    },
+                    {
+                        "name": "Xã Long Trị"
+                    },
+                    {
+                        "name": "Xã Long Trị A"
+                    },
+                    {
+                        "name": "Xã Long Phú"
+                    },
+                    {
+                        "name": "Xã Tân Phú"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Tỉnh Sóc Trăng",
+        "districts": [
+            {
+                "name": "Thành phố Sóc Trăng",
+                "wards": [
+                    {
+                        "name": "Phường 5"
+                    },
+                    {
+                        "name": "Phường 7"
+                    },
+                    {
+                        "name": "Phường 8"
+                    },
+                    {
+                        "name": "Phường 6"
+                    },
+                    {
+                        "name": "Phường 2"
+                    },
+                    {
+                        "name": "Phường 1"
+                    },
+                    {
+                        "name": "Phường 4"
+                    },
+                    {
+                        "name": "Phường 3"
+                    },
+                    {
+                        "name": "Phường 9"
+                    },
+                    {
+                        "name": "Phường 10"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Châu Thành",
+                "wards": [
+                    {
+                        "name": "Thị trấn Châu Thành"
+                    },
+                    {
+                        "name": "Xã Hồ Đắc Kiện"
+                    },
+                    {
+                        "name": "Xã Phú Tâm"
+                    },
+                    {
+                        "name": "Xã Thuận Hòa"
+                    },
+                    {
+                        "name": "Xã Phú Tân"
+                    },
+                    {
+                        "name": "Xã Thiện Mỹ"
+                    },
+                    {
+                        "name": "Xã An Hiệp"
+                    },
+                    {
+                        "name": "Xã An Ninh"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Kế Sách",
+                "wards": [
+                    {
+                        "name": "Thị trấn Kế Sách"
+                    },
+                    {
+                        "name": "Thị trấn An Lạc Thôn"
+                    },
+                    {
+                        "name": "Xã Xuân Hòa"
+                    },
+                    {
+                        "name": "Xã Phong Nẫm"
+                    },
+                    {
+                        "name": "Xã An Lạc Tây"
+                    },
+                    {
+                        "name": "Xã Trinh Phú"
+                    },
+                    {
+                        "name": "Xã Ba Trinh"
+                    },
+                    {
+                        "name": "Xã Thới An Hội"
+                    },
+                    {
+                        "name": "Xã Nhơn Mỹ"
+                    },
+                    {
+                        "name": "Xã Kế Thành"
+                    },
+                    {
+                        "name": "Xã Kế An"
+                    },
+                    {
+                        "name": "Xã Đại Hải"
+                    },
+                    {
+                        "name": "Xã An Mỹ"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Mỹ Tú",
+                "wards": [
+                    {
+                        "name": "Thị trấn Huỳnh Hữu Nghĩa"
+                    },
+                    {
+                        "name": "Xã Long Hưng"
+                    },
+                    {
+                        "name": "Xã Hưng Phú"
+                    },
+                    {
+                        "name": "Xã Mỹ Hương"
+                    },
+                    {
+                        "name": "Xã Mỹ Tú"
+                    },
+                    {
+                        "name": "Xã Mỹ Phước"
+                    },
+                    {
+                        "name": "Xã Thuận Hưng"
+                    },
+                    {
+                        "name": "Xã Mỹ Thuận"
+                    },
+                    {
+                        "name": "Xã Phú Mỹ"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Cù Lao Dung",
+                "wards": [
+                    {
+                        "name": "Thị trấn Cù Lao Dung"
+                    },
+                    {
+                        "name": "Xã An Thạnh 1"
+                    },
+                    {
+                        "name": "Xã An Thạnh Tây"
+                    },
+                    {
+                        "name": "Xã An Thạnh Đông"
+                    },
+                    {
+                        "name": "Xã Đại Ân 1"
+                    },
+                    {
+                        "name": "Xã An Thạnh 2"
+                    },
+                    {
+                        "name": "Xã An Thạnh 3"
+                    },
+                    {
+                        "name": "Xã An Thạnh Nam"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Long Phú",
+                "wards": [
+                    {
+                        "name": "Thị trấn Long Phú"
+                    },
+                    {
+                        "name": "Xã Song Phụng"
+                    },
+                    {
+                        "name": "Thị trấn Đại Ngãi"
+                    },
+                    {
+                        "name": "Xã Hậu Thạnh"
+                    },
+                    {
+                        "name": "Xã Long Đức"
+                    },
+                    {
+                        "name": "Xã Trường Khánh"
+                    },
+                    {
+                        "name": "Xã Phú Hữu"
+                    },
+                    {
+                        "name": "Xã Tân Hưng"
+                    },
+                    {
+                        "name": "Xã Châu Khánh"
+                    },
+                    {
+                        "name": "Xã Tân Thạnh"
+                    },
+                    {
+                        "name": "Xã Long Phú"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Mỹ Xuyên",
+                "wards": [
+                    {
+                        "name": "Thị trấn Mỹ Xuyên"
+                    },
+                    {
+                        "name": "Xã Đại Tâm"
+                    },
+                    {
+                        "name": "Xã Tham Đôn"
+                    },
+                    {
+                        "name": "Xã Thạnh Phú"
+                    },
+                    {
+                        "name": "Xã Ngọc Đông"
+                    },
+                    {
+                        "name": "Xã Thạnh Quới"
+                    },
+                    {
+                        "name": "Xã Hòa Tú 1"
+                    },
+                    {
+                        "name": "Xã Gia Hòa 1"
+                    },
+                    {
+                        "name": "Xã Ngọc Tố"
+                    },
+                    {
+                        "name": "Xã Gia Hòa 2"
+                    },
+                    {
+                        "name": "Xã Hòa Tú II"
+                    }
+                ]
+            },
+            {
+                "name": "Thị xã Ngã Năm",
+                "wards": [
+                    {
+                        "name": "Phường 1"
+                    },
+                    {
+                        "name": "Phường 2"
+                    },
+                    {
+                        "name": "Xã Vĩnh Quới"
+                    },
+                    {
+                        "name": "Xã Tân Long"
+                    },
+                    {
+                        "name": "Xã Long Bình"
+                    },
+                    {
+                        "name": "Phường 3"
+                    },
+                    {
+                        "name": "Xã Mỹ Bình"
+                    },
+                    {
+                        "name": "Xã Mỹ Quới"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Thạnh Trị",
+                "wards": [
+                    {
+                        "name": "Thị trấn Phú Lộc"
+                    },
+                    {
+                        "name": "Thị trấn Hưng Lợi"
+                    },
+                    {
+                        "name": "Xã Lâm Tân"
+                    },
+                    {
+                        "name": "Xã Thạnh Tân"
+                    },
+                    {
+                        "name": "Xã Lâm Kiết"
+                    },
+                    {
+                        "name": "Xã Tuân Tức"
+                    },
+                    {
+                        "name": "Xã Vĩnh Thành"
+                    },
+                    {
+                        "name": "Xã Thạnh Trị"
+                    },
+                    {
+                        "name": "Xã Vĩnh Lợi"
+                    },
+                    {
+                        "name": "Xã Châu Hưng"
+                    }
+                ]
+            },
+            {
+                "name": "Thị xã Vĩnh Châu",
+                "wards": [
+                    {
+                        "name": "Phường 1"
+                    },
+                    {
+                        "name": "Xã Hòa Đông"
+                    },
+                    {
+                        "name": "Phường Khánh Hòa"
+                    },
+                    {
+                        "name": "Xã Vĩnh Hiệp"
+                    },
+                    {
+                        "name": "Xã Vĩnh Hải"
+                    },
+                    {
+                        "name": "Xã Lạc Hòa"
+                    },
+                    {
+                        "name": "Phường 2"
+                    },
+                    {
+                        "name": "Phường Vĩnh Phước"
+                    },
+                    {
+                        "name": "Xã Vĩnh Tân"
+                    },
+                    {
+                        "name": "Xã Lai Hòa"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Trần Đề",
+                "wards": [
+                    {
+                        "name": "Xã Đại Ân  2"
+                    },
+                    {
+                        "name": "Thị trấn Trần Đề"
+                    },
+                    {
+                        "name": "Xã Liêu Tú"
+                    },
+                    {
+                        "name": "Xã Lịch Hội Thượng"
+                    },
+                    {
+                        "name": "Thị trấn Lịch Hội Thượng"
+                    },
+                    {
+                        "name": "Xã Trung Bình"
+                    },
+                    {
+                        "name": "Xã Tài Văn"
+                    },
+                    {
+                        "name": "Xã Viên An"
+                    },
+                    {
+                        "name": "Xã Thạnh Thới An"
+                    },
+                    {
+                        "name": "Xã Thạnh Thới Thuận"
+                    },
+                    {
+                        "name": "Xã Viên Bình"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Tỉnh Bạc Liêu",
+        "districts": [
+            {
+                "name": "Thành phố Bạc Liêu",
+                "wards": [
+                    {
+                        "name": "Phường 2"
+                    },
+                    {
+                        "name": "Phường 3"
+                    },
+                    {
+                        "name": "Phường 5"
+                    },
+                    {
+                        "name": "Phường 7"
+                    },
+                    {
+                        "name": "Phường 1"
+                    },
+                    {
+                        "name": "Phường 8"
+                    },
+                    {
+                        "name": "Phường Nhà Mát"
+                    },
+                    {
+                        "name": "Xã Vĩnh Trạch"
+                    },
+                    {
+                        "name": "Xã Vĩnh Trạch Đông"
+                    },
+                    {
+                        "name": "Xã Hiệp Thành"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Hồng Dân",
+                "wards": [
+                    {
+                        "name": "Thị trấn Ngan Dừa"
+                    },
+                    {
+                        "name": "Xã Ninh Quới"
+                    },
+                    {
+                        "name": "Xã Ninh Quới A"
+                    },
+                    {
+                        "name": "Xã Ninh Hòa"
+                    },
+                    {
+                        "name": "Xã Lộc Ninh"
+                    },
+                    {
+                        "name": "Xã Vĩnh Lộc"
+                    },
+                    {
+                        "name": "Xã Vĩnh Lộc A"
+                    },
+                    {
+                        "name": "Xã Ninh Thạnh Lợi A"
+                    },
+                    {
+                        "name": "Xã Ninh Thạnh Lợi"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Phước Long",
+                "wards": [
+                    {
+                        "name": "Thị trấn Phước Long"
+                    },
+                    {
+                        "name": "Xã Vĩnh Phú Đông"
+                    },
+                    {
+                        "name": "Xã Vĩnh Phú Tây"
+                    },
+                    {
+                        "name": "Xã Phước Long"
+                    },
+                    {
+                        "name": "Xã Hưng Phú"
+                    },
+                    {
+                        "name": "Xã Vĩnh Thanh"
+                    },
+                    {
+                        "name": "Xã Phong Thạnh Tây A"
+                    },
+                    {
+                        "name": "Xã Phong Thạnh Tây B"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Vĩnh Lợi",
+                "wards": [
+                    {
+                        "name": "Xã Vĩnh Hưng"
+                    },
+                    {
+                        "name": "Xã Vĩnh Hưng A"
+                    },
+                    {
+                        "name": "Thị trấn Châu Hưng"
+                    },
+                    {
+                        "name": "Xã Châu Hưng A"
+                    },
+                    {
+                        "name": "Xã Hưng Thành"
+                    },
+                    {
+                        "name": "Xã Hưng Hội"
+                    },
+                    {
+                        "name": "Xã Châu Thới"
+                    },
+                    {
+                        "name": "Xã Long Thạnh"
+                    }
+                ]
+            },
+            {
+                "name": "Thị xã Giá Rai",
+                "wards": [
+                    {
+                        "name": "Phường 1"
+                    },
+                    {
+                        "name": "Phường Hộ Phòng"
+                    },
+                    {
+                        "name": "Xã Phong Thạnh Đông"
+                    },
+                    {
+                        "name": "Phường Láng Tròn"
+                    },
+                    {
+                        "name": "Xã Phong Tân"
+                    },
+                    {
+                        "name": "Xã Tân Phong"
+                    },
+                    {
+                        "name": "Xã Phong Thạnh"
+                    },
+                    {
+                        "name": "Xã Phong Thạnh A"
+                    },
+                    {
+                        "name": "Xã Phong Thạnh Tây"
+                    },
+                    {
+                        "name": "Xã Tân Thạnh"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Đông Hải",
+                "wards": [
+                    {
+                        "name": "Thị trấn Gành Hào"
+                    },
+                    {
+                        "name": "Xã Long Điền Đông"
+                    },
+                    {
+                        "name": "Xã Long Điền Đông A"
+                    },
+                    {
+                        "name": "Xã Long Điền"
+                    },
+                    {
+                        "name": "Xã Long Điền Tây"
+                    },
+                    {
+                        "name": "Xã Điền Hải"
+                    },
+                    {
+                        "name": "Xã An Trạch"
+                    },
+                    {
+                        "name": "Xã An Trạch A"
+                    },
+                    {
+                        "name": "Xã An Phúc"
+                    },
+                    {
+                        "name": "Xã Định Thành"
+                    },
+                    {
+                        "name": "Xã Định Thành A"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Hoà Bình",
+                "wards": [
+                    {
+                        "name": "Thị trấn Hòa Bình"
+                    },
+                    {
+                        "name": "Xã Minh Diệu"
+                    },
+                    {
+                        "name": "Xã Vĩnh Bình"
+                    },
+                    {
+                        "name": "Xã Vĩnh Mỹ B"
+                    },
+                    {
+                        "name": "Xã Vĩnh Hậu"
+                    },
+                    {
+                        "name": "Xã Vĩnh Hậu A"
+                    },
+                    {
+                        "name": "Xã Vĩnh Mỹ A"
+                    },
+                    {
+                        "name": "Xã Vĩnh Thịnh"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Tỉnh Cà Mau",
+        "districts": [
+            {
+                "name": "Thành phố Cà Mau",
+                "wards": [
+                    {
+                        "name": "Phường 9"
+                    },
+                    {
+                        "name": "Phường 4"
+                    },
+                    {
+                        "name": "Phường 1"
+                    },
+                    {
+                        "name": "Phường 5"
+                    },
+                    {
+                        "name": "Phường 2"
+                    },
+                    {
+                        "name": "Phường 8"
+                    },
+                    {
+                        "name": "Phường 6"
+                    },
+                    {
+                        "name": "Phường 7"
+                    },
+                    {
+                        "name": "Phường Tân Xuyên"
+                    },
+                    {
+                        "name": "Xã An Xuyên"
+                    },
+                    {
+                        "name": "Phường Tân Thành"
+                    },
+                    {
+                        "name": "Xã Tân Thành"
+                    },
+                    {
+                        "name": "Xã Tắc Vân"
+                    },
+                    {
+                        "name": "Xã Lý Văn Lâm"
+                    },
+                    {
+                        "name": "Xã Định Bình"
+                    },
+                    {
+                        "name": "Xã Hòa Thành"
+                    },
+                    {
+                        "name": "Xã Hòa Tân"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện U Minh",
+                "wards": [
+                    {
+                        "name": "Thị trấn U Minh"
+                    },
+                    {
+                        "name": "Xã Khánh Hòa"
+                    },
+                    {
+                        "name": "Xã Khánh Thuận"
+                    },
+                    {
+                        "name": "Xã Khánh Tiến"
+                    },
+                    {
+                        "name": "Xã Nguyễn Phích"
+                    },
+                    {
+                        "name": "Xã Khánh Lâm"
+                    },
+                    {
+                        "name": "Xã Khánh An"
+                    },
+                    {
+                        "name": "Xã Khánh Hội"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Thới Bình",
+                "wards": [
+                    {
+                        "name": "Thị trấn Thới Bình"
+                    },
+                    {
+                        "name": "Xã Biển Bạch"
+                    },
+                    {
+                        "name": "Xã Tân Bằng"
+                    },
+                    {
+                        "name": "Xã Trí Phải"
+                    },
+                    {
+                        "name": "Xã Trí Lực"
+                    },
+                    {
+                        "name": "Xã Biển Bạch Đông"
+                    },
+                    {
+                        "name": "Xã Thới Bình"
+                    },
+                    {
+                        "name": "Xã Tân Phú"
+                    },
+                    {
+                        "name": "Xã Tân Lộc Bắc"
+                    },
+                    {
+                        "name": "Xã Tân Lộc"
+                    },
+                    {
+                        "name": "Xã Tân Lộc Đông"
+                    },
+                    {
+                        "name": "Xã Hồ Thị Kỷ"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Trần Văn Thời",
+                "wards": [
+                    {
+                        "name": "Thị trấn Trần Văn Thời"
+                    },
+                    {
+                        "name": "Thị trấn Sông Đốc"
+                    },
+                    {
+                        "name": "Xã Khánh Bình Tây Bắc"
+                    },
+                    {
+                        "name": "Xã Khánh Bình Tây"
+                    },
+                    {
+                        "name": "Xã Trần Hợi"
+                    },
+                    {
+                        "name": "Xã Khánh Lộc"
+                    },
+                    {
+                        "name": "Xã Khánh Bình"
+                    },
+                    {
+                        "name": "Xã Khánh Hưng"
+                    },
+                    {
+                        "name": "Xã Khánh Bình Đông"
+                    },
+                    {
+                        "name": "Xã Khánh Hải"
+                    },
+                    {
+                        "name": "Xã Lợi An"
+                    },
+                    {
+                        "name": "Xã Phong Điền"
+                    },
+                    {
+                        "name": "Xã Phong Lạc"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Cái Nước",
+                "wards": [
+                    {
+                        "name": "Thị trấn Cái Nước"
+                    },
+                    {
+                        "name": "Xã Thạnh Phú"
+                    },
+                    {
+                        "name": "Xã Lương Thế Trân"
+                    },
+                    {
+                        "name": "Xã Phú Hưng"
+                    },
+                    {
+                        "name": "Xã Tân Hưng"
+                    },
+                    {
+                        "name": "Xã Hưng Mỹ"
+                    },
+                    {
+                        "name": "Xã Hoà Mỹ"
+                    },
+                    {
+                        "name": "Xã Đông Hưng"
+                    },
+                    {
+                        "name": "Xã Đông Thới"
+                    },
+                    {
+                        "name": "Xã Tân Hưng Đông"
+                    },
+                    {
+                        "name": "Xã Trần Thới"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Đầm Dơi",
+                "wards": [
+                    {
+                        "name": "Thị trấn Đầm Dơi"
+                    },
+                    {
+                        "name": "Xã Tạ An Khương"
+                    },
+                    {
+                        "name": "Xã Tạ An Khương  Đông"
+                    },
+                    {
+                        "name": "Xã Trần Phán"
+                    },
+                    {
+                        "name": "Xã Tân Trung"
+                    },
+                    {
+                        "name": "Xã Tân Đức"
+                    },
+                    {
+                        "name": "Xã Tân Thuận"
+                    },
+                    {
+                        "name": "Xã Tạ An Khương  Nam"
+                    },
+                    {
+                        "name": "Xã Tân Duyệt"
+                    },
+                    {
+                        "name": "Xã Tân Dân"
+                    },
+                    {
+                        "name": "Xã Tân Tiến"
+                    },
+                    {
+                        "name": "Xã Quách Phẩm Bắc"
+                    },
+                    {
+                        "name": "Xã Quách Phẩm"
+                    },
+                    {
+                        "name": "Xã Thanh Tùng"
+                    },
+                    {
+                        "name": "Xã Ngọc Chánh"
+                    },
+                    {
+                        "name": "Xã Nguyễn Huân"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Năm Căn",
+                "wards": [
+                    {
+                        "name": "Thị Trấn Năm Căn"
+                    },
+                    {
+                        "name": "Xã Hàm Rồng"
+                    },
+                    {
+                        "name": "Xã Hiệp Tùng"
+                    },
+                    {
+                        "name": "Xã Đất Mới"
+                    },
+                    {
+                        "name": "Xã Lâm Hải"
+                    },
+                    {
+                        "name": "Xã Hàng Vịnh"
+                    },
+                    {
+                        "name": "Xã Tam Giang"
+                    },
+                    {
+                        "name": "Xã Tam Giang Đông"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Phú Tân",
+                "wards": [
+                    {
+                        "name": "Thị trấn Cái Đôi Vàm"
+                    },
+                    {
+                        "name": "Xã Phú Thuận"
+                    },
+                    {
+                        "name": "Xã Phú Mỹ"
+                    },
+                    {
+                        "name": "Xã Phú Tân"
+                    },
+                    {
+                        "name": "Xã Tân Hải"
+                    },
+                    {
+                        "name": "Xã Việt Thắng"
+                    },
+                    {
+                        "name": "Xã Tân Hưng Tây"
+                    },
+                    {
+                        "name": "Xã Rạch Chèo"
+                    },
+                    {
+                        "name": "Xã Nguyễn Việt Khái"
+                    }
+                ]
+            },
+            {
+                "name": "Huyện Ngọc Hiển",
+                "wards": [
+                    {
+                        "name": "Xã Tam Giang Tây"
+                    },
+                    {
+                        "name": "Xã Tân Ân Tây"
+                    },
+                    {
+                        "name": "Xã Viên An Đông"
+                    },
+                    {
+                        "name": "Xã Viên An"
+                    },
+                    {
+                        "name": "Thị trấn Rạch Gốc"
+                    },
+                    {
+                        "name": "Xã Tân Ân"
+                    },
+                    {
+                        "name": "Xã Đất Mũi"
+                    }
+                ]
+            }
+        ]
+    }
+]
