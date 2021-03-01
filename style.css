@@ -1,0 +1,16 @@
+* {
+    margin: 0 auto;
+}
+
+button#copy {
+    position: fixed;
+    top: 30px;
+    left: 50%;
+    transform: translate3d(-50%, 0, 0);
+}
+
+input#buffer {
+    opacity: 0;
+    user-select: none;
+    pointer-events: none;
+}
